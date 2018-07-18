@@ -1,0 +1,161 @@
+{
+
+  "name": "Emergency Tasks",
+  "desc": "",
+  "descData": null,
+  "closed": false,
+  "idOrganization": "idOrgMockId",
+  "pinned": false,
+  "url": "https://trello.com/b/mockurl/emergency-tasks",
+  "shortUrl": "https://trello.com/b/mockurl",
+  "prefs": {
+    "permissionLevel": "org",
+    "voting": "disabled",
+    "comments": "members",
+    "invitations": "members",
+    "selfJoin": true,
+    "cardCovers": true,
+    "cardAging": "regular",
+    "calendarFeedEnabled": false,
+    "background": "MockHashValue",
+    "backgroundImage": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2560x1706/fa6de9ba294577ceba282d71b2adc699/photo-1455103493930-a116f655b6c5",
+    "backgroundImageScaled": [
+      {
+        "width": 140,
+        "height": 100,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/140x100/4bdfa4f5efaa8428839fc20bd77101b1/photo-1455103493930-a116f655b6c5.jpg"
+      },
+      {
+        "width": 256,
+        "height": 192,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/256x192/b96b1b76bcd3bd29af2cce0e0fd85412/photo-1455103493930-a116f655b6c5.jpg"
+      },
+      {
+        "width": 480,
+        "height": 480,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/480x480/bd91ae60e19e17b2d4a423ac626e54d3/photo-1455103493930-a116f655b6c5.jpg"
+      },
+      {
+        "width": 960,
+        "height": 960,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/960x960/1af72f03cfc4baeb1b6109234adbfe59/photo-1455103493930-a116f655b6c5.jpg"
+      },
+      {
+        "width": 1024,
+        "height": 1024,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1024x1024/d1739a50bd797d2880bcd74186581cc1/photo-1455103493930-a116f655b6c5.jpg"
+      },
+      {
+        "width": 2048,
+        "height": 2048,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2048x2048/7b0d7fc1850f6f28d82f6c63ec59473c/photo-1455103493930-a116f655b6c5.jpg"
+      },
+      {
+        "width": 1280,
+        "height": 1280,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1280x1280/ed188fffcacc30f1b34d7e76baabc1d6/photo-1455103493930-a116f655b6c5.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 1920,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1920x1920/5a0140f6bfb033f247eec904e015e0e3/photo-1455103493930-a116f655b6c5.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1600,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2560x1600/c8e4ef6437409498576d57526820a8d2/photo-1455103493930-a116f655b6c5.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1706,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2560x1706/fa6de9ba294577ceba282d71b2adc699/photo-1455103493930-a116f655b6c5"
+      }
+    ],
+    "backgroundTile": false,
+    "backgroundBrightness": "dark",
+    "backgroundBottomColor": "#757065",
+    "backgroundTopColor": "#3d2c24",
+    "canBePublic": true,
+    "canBeOrg": true,
+    "canBePrivate": true,
+    "canInvite": true
+  },
+  "cards": [
+    {
+      "name": "MOCK: Bug: Text messages are not stored in database",
+      "idList": "mockid",
+      "dateLastActivity": "2018-06-11T23:08:39.278Z",
+      "desc": "When a text message is sent to our bisnar chase number, the message is not stored in the database. Find where it is failing and fix. ",
+      "shortUrl": "https://trello.com/c/mockUrl",
+      "idMembers": [
+        "5a385d8f2344a8d1eed4b95a"
+      ]
+    },
+    {
+      "name": "MOCK: Typo: Our Phone number on the /auto-defects/ page is the incorrect tracking number",
+      "idList": "mockid",
+      "dateLastActivity": "2018-07-12T11:08:39.278Z",
+      "desc": "Fix immediately - change phone number to the right one. ",
+      "shortUrl": "https://trello.com/c/mockUrl",
+      "idMembers": [
+        "5a385d8f2344a8d1eed4b95a"
+      ]
+    },
+    {
+      "name": "MOCK: New Page: Create space alien lawsuit page.",
+      "idList": "mockid",
+      "dateLastActivity": "2018-07-04T10:01:29.278Z",
+      "desc": "Boss needs our clients to know that we are the #1 lawyer for lawsuits against aliens invading from outer space. Build this page out ASAP.",
+      "shortUrl": "https://trello.com/c/mockUrl",
+      "idMembers": [
+        "5a385d8f2344a8d1eed4b95a"
+      ]
+    }
+  ],
+  "labelNames": {
+    "green": "",
+    "yellow": "",
+    "orange": "",
+    "red": "",
+    "purple": "",
+    "blue": "",
+    "sky": "",
+    "lime": "",
+    "pink": "",
+    "black": ""
+  },
+  "priorityCards": [
+    {
+      "name": "MOCK: Typo: Our Phone number on the /auto-defects/ page is the incorrect tracking number",
+      "idList": "mockid",
+      "dateLastActivity": "2018-07-12T11:08:39.278Z",
+      "desc": "Fix immediately - change phone number to the right one. ",
+      "shortUrl": "https://trello.com/c/mockUrl",
+      "idMembers": [
+        "5a385d8f2344a8d1eed4b95a"
+      ]
+    },
+    {
+      "name": "MOCK: New Page: Create space alien lawsuit page.",
+      "idList": "mockid",
+      "dateLastActivity": "2018-07-04T10:01:29.278Z",
+      "desc": "Boss needs our clients to know that we are the #1 lawyer for lawsuits against aliens invading from outer space. Build this page out ASAP.",
+      "shortUrl": "https://trello.com/c/mockUrl",
+      "idMembers": [
+        "5a385d8f2344a8d1eed4b95a"
+      ]
+    }
+  ],
+  "emergencyCards": [
+    {
+      "name": "MOCK: Bug: Text messages are not stored in database",
+      "idList": "mockid",
+      "dateLastActivity": "2018-06-11T23:08:39.278Z",
+      "desc": "When a text message is sent to our bisnar chase number, the message is not stored in the database. Find where it is failing and fix. ",
+      "shortUrl": "https://trello.com/c/mockUrl",
+      "idMembers": [
+        "5a385d8f2344a8d1eed4b95a"
+      ]
+    }
+  ]
+}

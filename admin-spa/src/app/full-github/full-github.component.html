@@ -1,0 +1,157 @@
+<div class="be-content">
+  <div class="page-head" >
+    <div class="page-head-left">
+      <h2 class="page-head-title">Github Stats Page</h2>
+      <nav aria-label="breadcrumb" role="navigation">
+        <ol class="breadcrumb page-head-nav">
+          <li class="breadcrumb-item">
+            <a href="/">Home</a>
+          </li>
+          <li class="breadcrumb-item active">Github Stats</li>
+        </ol>
+      </nav>
+    </div>
+    <app-date-picker></app-date-picker>
+    <div class="clearfix"></div>
+  </div>
+
+  <div class="main-content container-fluid be-loading" [ngClass]="{'be-loading-active': loading}">
+   
+    <div class="card be-loading" [ngClass]="{'be-loading-active': loading}">
+      <div class="card-header card-header-divider text-center">
+          <h3>Github Top Stats for {{rangeString}}</h3>
+      </div>
+      <div class="card-body d-flex justify-content-around" *ngIf="githubStats && userData">
+        
+        <div class="stat-box text-center">
+          <h3>Most Commits:</h3>
+          <h4><strong>{{githubStats.mostCommitsUser.name}}</strong> with {{githubStats.mostCommits}}</h4>
+          <app-chart chartElementId="gitUserCommitsGraph" [chartData]="mostCommitsData" class="dashboard-chart" *ngIf="mostCommitsData"></app-chart>
+        </div>
+
+        <div class="stat-box text-center">
+          <h3>Most Additions:</h3>
+          <h4><strong>{{githubStats.mostAdditionsUser.name}}</strong> with {{githubStats.mostAdditions}}</h4>
+          <app-chart chartElementId="gitUserAdditionsGraph" [chartData]="mostAdditionsData" class="dashboard-chart" *ngIf="mostAdditionsData"></app-chart>
+        </div>
+
+        <div class="stat-box text-center">
+          <h3>Most Deletions:</h3>
+          <h4><strong>{{githubStats.mostDeletionsUser.name}}</strong> with {{githubStats.mostDeletions}} </h4>
+          <app-chart chartElementId="gitUserDeletionsGraph" [chartData]="mostDeletionsData" class="dashboard-chart" *ngIf="mostDeletionsData"></app-chart>
+        </div>
+
+        <div class="stat-box text-center">
+          <h3>Most File Changes:</h3>
+          <h4><strong>{{githubStats.mostFileChangesUser.name}}</strong> with {{githubStats.mostFileChanges}}</h4>
+          <app-chart chartElementId="gitUserFileChangesGraph" [chartData]="mostFileChangesData" class="dashboard-chart" *ngIf="mostFileChangesData"></app-chart>
+        </div>
+
+      </div>
+    </div>
+
+    <div id="averages-commits-row" class="row">
+      <div class="col-lg-6">
+        <div class="card">
+          <div class="card-header">
+                <h3>All Users Averages</h3>
+                <span class="card-subtitle">{{rangeString}}</span>
+              </div>
+              <div class="card-body">
+                <table class="table">
+                  <tbody>
+                    <tr>
+                      <td></td>
+                      <td>Average File Changes per Commit:</td>
+                      <td><strong>{{githubStats.userCommitsAverage}}</strong></td>
+                    </tr>
+                    <tr>
+                      <td></td>
+                      <td>Average Additions per Commit:</td>
+                      <td><strong>{{githubStats.userAdditionsAverage}}</strong></td>
+                    </tr>
+                    <tr>
+                      <td></td>
+                      <td>Average Deletions per Commit:</td>
+                      <td><strong>{{githubStats.userDeletionsAverage}}</strong></td>
+                    </tr>
+                    <tr>
+                      <td></td>
+                      <td>Average File Changes per Commit:</td>
+                      <td><strong>{{githubStats.userFileChangesAverage}}</strong></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="card">
+            <div class="card-header">
+              <h3>Recent Commits</h3>
+              <span class="card-subtitle">Last 5 commits</span>
+            </div>
+            <div class="card-body">
+              <table class="table table-sm table-striped table-hover">
+              <thead>
+                <tr>
+                  <th>User</th>
+                  <th>Commit</th>
+                  <th>Date/Time</th>
+                  <th class="actions"></th>
+                </tr>
+              </thead>
+              <tbody *ngIf="githubStats">
+                <tr *ngFor="let commit of githubStats.recentCommits | slice: 0:5">
+                  <td class="user-avatar">
+                    <img class="avatar-img" src="{{commit.node.author.avatarUrl}}" alt="{{commit.node.author.name}} Avatar ">
+                    <br> {{commit.node.author.name}}
+                  </td>
+                  <td class="commit-message">{{commit.node.messageHeadline}}</td>
+                  <td>{{commit.node.author.date | date: 'short'}}</td>
+                </tr>
+              </tbody>
+            </table>
+            </div>
+        </div>
+      </div>
+    </div>
+    
+
+    <div class="card" *ngFor="let user of loginsArray">
+      <div class="card-header d-flex flex-left">
+        <div class="avatar">
+          <img src="{{ userData[user].avatarUrl }}/170.png" *ngIf="userData[user].avatarUrl" alt="Avatar">
+          <img src="https://cdn.shopify.com/s/files/1/1061/1924/products/Poop_Emoji_7b204f05-eec6-4496-91b1-351acc03d2c7_large.png?v=1480481059" *ngIf="!userData[user].avatarUrl" alt="Avatar">
+        </div>
+        <h2 class="user-title">{{userData[user].name || user}}</h2>
+        <div class="user-stat">
+          <h4>Total Commits</h4>
+          <p>{{userData[user].totalCommits}}</p>
+        </div>
+        <div class="user-stat">
+          <h4>Total Additions</h4>
+          <p>{{userData[user].totalAdditions}}</p>
+        </div>
+        <div class="user-stat">
+          <h4>Total Deletions</h4>
+          <p>{{userData[user].totalDeletions}}</p>
+        </div>
+        <div class="user-stat">
+          <h4>Total File Changes</h4>
+          <p>{{userData[user].totalFileChanges}}</p>
+        </div>
+      </div>
+      <div class="card-body">
+        <div class="d-flex user-list-info-row">
+        </div>
+      </div>
+
+    </div>
+
+
+
+    <app-loader-icon></app-loader-icon>
+  </div>
+
+</div>

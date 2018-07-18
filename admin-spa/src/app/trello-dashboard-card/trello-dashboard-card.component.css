@@ -1,0 +1,13 @@
+.card {
+  min-height: 280px; }
+
+.trello-flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; }
+  .trello-flex .trello-user-info {
+    margin: 0 auto;
+    min-width: 140px; }
+
+.bg-expired {
+  background-color: #ce1179; }

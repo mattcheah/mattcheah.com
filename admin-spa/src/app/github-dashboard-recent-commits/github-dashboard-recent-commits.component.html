@@ -1,0 +1,27 @@
+<div class="card card-body table-responsive be-loading" [ngClass]="{'be-loading-active': loading}">
+  <div class="card-title">
+    <h3>Most Recent Commits</h3>
+  </div>
+  <table class="table table-sm table-striped table-hover">
+    <thead>
+      <tr>
+        <th>User</th>
+        <th>Commit</th>
+        <th>Date/Time</th>
+        <th class="actions"></th>
+      </tr>
+    </thead>
+    <tbody *ngIf="githubStats">
+      <tr *ngFor="let commit of githubStats.recentCommits | slice: 0:5">
+        <td class="user-avatar">
+          <img class="avatar-img" src="{{commit.node.author.avatarUrl}}" alt="{{commit.node.author.name}} Avatar ">
+          <br> {{commit.node.author.name}}
+        </td>
+        <td class="commit-message">{{commit.node.messageHeadline}}</td>
+        <td>{{commit.node.author.date | date: 'short'}}</td>
+      </tr>
+    </tbody>
+  </table>
+  <app-loader-icon></app-loader-icon>
+</div>
+

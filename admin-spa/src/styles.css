@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+@import url(~@angular/material/prebuilt-themes/deeppurple-amber.css);
+/*
+    Page-header section, contains page title, breadcrumbs, and date picker
+*/
+.page-head .page-head-left {
+  float: left; }
+.page-head .page-head-right .mat-form-field-infix {
+  width: 100px !important; }

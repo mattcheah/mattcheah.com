@@ -1,0 +1,20 @@
+.avatar {
+  width: 150px;
+  margin: 0 40px 40px 0; }
+  .avatar img {
+    border-radius: 50%;
+    width: 100%; }
+
+.sparkpie {
+  padding: 0 20px; }
+
+.cards-table {
+  margin-top: 40px; }
+  .cards-table td.pending {
+    box-shadow: inset 7px -2px 0px -2px #ce1179; }
+  .cards-table td.inProgress {
+    box-shadow: inset 7px -2px 0px -2px #4285f4; }
+  .cards-table td.forReviewByKFMC {
+    box-shadow: inset 7px -2px 0px -2px #fbbc05; }
+  .cards-table td.completed {
+    box-shadow: inset 7px -2px 0px -2px #34a853; }

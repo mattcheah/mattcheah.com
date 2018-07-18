@@ -1,0 +1,33 @@
+<div class="card be-loading be-loading-active" [ngClass]="{'be-loading-active': loading}">
+  <div class="card-header">
+    <h3>Recent Newsletter Signups</h3>
+  </div>
+  <div class="card-body">
+    <table class="table table-sm table-striped table-hover">
+      <thead>
+        <tr>
+          <th>Email Address</th>
+          <th>Date Signed Up</th>
+          <th>Time</th>
+        </tr>
+      </thead>
+      <tbody *ngIf="signups">
+        <tr *ngFor="let signup of signups | slice: 0: totalSignups">
+          <td>{{signup[2]}}</td>
+          <td>{{signup[0]}}</td>
+          <td>{{signup[1]}}</td>
+        </tr>
+      </tbody>
+    </table>
+    <p *ngIf="signups && signups.length < 1">
+      <strong>There have been no signups in this period.</strong>
+    </p>
+    <div class="d-flex justify-content-around" *ngIf="signups">
+      <button class="btn btn-primary" (click)="showSignups(totalSignups + 3)" *ngIf="totalSignups < signups.length">Show More Signups</button>
+      <button class="btn btn-primary" (click)="showSignups(signups.length)" *ngIf="totalSignups < signups.length">Show All</button>
+      <button class="btn btn-primary" (click)="showSignups(3)" *ngIf="totalSignups !== 3">Show Less</button>
+    </div>
+  </div>
+
+  <app-loader-icon></app-loader-icon>
+</div>

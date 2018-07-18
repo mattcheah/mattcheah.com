@@ -1,0 +1,8 @@
+.user-avatar {
+  font-size: 10px;
+  text-align: center; }
+  .user-avatar .avatar-img {
+    width: 50px;
+    border-radius: 50%;
+    height: 50px;
+    margin-right: 0px; }

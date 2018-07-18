@@ -1,0 +1,69 @@
+<div class="full-trello-user card ">
+  <div class="card-header d-flex flex-left">
+    <div class="avatar">
+      <img src="{{ user.avatarUrl }}/170.png" *ngIf="user.avatarUrl" alt="Avatar">
+      <img src="https://cdn.shopify.com/s/files/1/1061/1924/products/Poop_Emoji_7b204f05-eec6-4496-91b1-351acc03d2c7_large.png?v=1480481059" *ngIf="!user.avatarUrl" alt="Avatar">
+    </div>
+    <div>
+      <h2>{{user.fullName}} </h2>
+      <span class="card-subtitle">{{user.lists[3].cards.length}}/{{user.cards.length}} Cards Completed</span>
+    </div>
+  </div>
+  <div class="card-body">
+    <div class="d-flex user-list-info-row">
+      <div class="list-info-col col-md-3 col-sm-6">
+        <div class="text-center">
+          <strong>{{user.lists[0].cards.length}}</strong> Card{{(user.lists[0].cards.length == 1 ? "" : "s")}} in Pending
+        </div>
+      </div>
+      <div class="list-info-col col-md-3 col-sm-6">
+        <div class="text-center">
+          <strong>{{user.lists[1].cards.length}}</strong> Card{{(user.lists[1].cards.length == 1 ? "" : "s")}} In Progress
+        </div>
+      </div>
+      <div class="list-info-col col-md-3 col-sm-6">
+        <div class="text-center">
+          <strong>{{user.lists[2].cards.length}}</strong> Card{{(user.lists[2].cards.length == 1 ? "" : "s")}} in Review
+        </div>
+      </div>
+      <div class="list-info-col col-md-3 col-sm-6">
+        <div class="text-center">
+          <strong>{{user.lists[3].cards.length}}</strong> Card{{(user.lists[3].cards.length == 1 ? "" : "s")}} Completed
+        </div>
+      </div>
+    </div>
+
+    <div class="cards-table">
+      <table class="table table-striped table-hover ">
+        <thead>
+          <tr>
+            <th style="width:10%">List</th>
+            <th style="width:25%">Title</th>
+            <th style="width:45%">Description</th>
+            <th style="width:15%">Last Activity</th>
+            <th style="width:5%">Link</th>
+          </tr>
+        </thead>
+        <tbody *ngFor="let list of user.lists">
+          <tr *ngFor="let card of list.cards">
+            <td [ngClass]="list.name | camelCase">
+              {{list.name}}
+            </td>
+            <td>
+              {{card.name}}
+            </td>
+            <td class="cell-detail" >
+              <span class="cell-detail-description">{{ card.desc.length > 250 ? card.desc.slice(0,250)+"..." : card.desc }}</span>
+            </td>
+            <td class="">
+              {{card.dateLastActivity | date: 'short'}}
+            </td>
+            <td class="">
+              <a href="{{card.shortUrl}}">Link</a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>

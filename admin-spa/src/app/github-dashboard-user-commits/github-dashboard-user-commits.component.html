@@ -1,0 +1,15 @@
+<div class="card card-body be-loading" [ngClass]="{'be-loading-active': loading}">
+  <div class="card-title">
+    <h3>Github User Commits - {{rangeString || "Past 30 Days"}}</h3>
+  </div>
+  <div class="row" *ngIf="mostCommitsData">
+    <div class="col-md-6">
+      <!-- <p class="card-header">Date Range: <strong>{{githubStats.startDate | date: 'shortDate'}} - {{githubStats.endDate | date: 'shortDate'}}</strong></p> -->
+    </div>
+    <div class="col-md-6 text-right">
+      <!-- <p class="card-header">Most commits: <strong>{{githubStats.stats.mostCommitsUser.name}}</strong> with <strong>{{githubStats.stats.mostCommits}}</strong></p> -->
+    </div>
+  </div>
+  <app-chart chartElementId="userCommitsGraph" [chartData]="mostCommitsData" class="dashboard-chart" *ngIf="mostCommitsData"></app-chart>
+  <app-loader-icon></app-loader-icon>
+</div>

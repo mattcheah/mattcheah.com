@@ -1,0 +1,45 @@
+<div class="be-content">
+  <div class="page-head">
+    <div class="page-head-left">
+      <h2 class="page-head-title">BestAttorney.com Admin Site</h2>
+      <nav aria-label="breadcrumb" role="navigation">
+        <ol class="breadcrumb page-head-nav">
+          <li class="breadcrumb-item">
+            <a href="/">Home</a>
+          </li>
+        </ol>
+      </nav>
+    </div>
+    <app-date-picker></app-date-picker>
+  </div>
+
+  <div class="main-content container-fluid">
+
+    <h2 class="text-center">Dashboard At-A-Glance</h2>
+    <div role="alert" class="alert alert-primary alert-dismissible">
+      <button type="button" data-dismiss="alert" aria-label="Close" class="close"><span aria-hidden="true" class="mdi mdi-close"></span></button>
+      <div class="icon"><span class="mdi mdi-info-outline"></span></div>
+      <div class="message"><strong>Info!</strong> This dashboard is a mocked version of the actual Admin Dashboard for the Bisnar Chase marketing team. All API calls are removed and subsituted with mocked JSON data.
+        The date range feature is also non-functional. </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <app-priority-alert></app-priority-alert>
+      </div>
+      <div class="col-md-12">
+        <app-trello-dashboard-card></app-trello-dashboard-card>
+      </div>
+      <div class="col-lg-6 col-md-12">
+        <app-github-dashboard-user-commits></app-github-dashboard-user-commits>
+      </div>
+      <div class="col-lg-6 col-md-12">
+        <app-github-dashboard-recent-commits></app-github-dashboard-recent-commits>
+      </div>
+      <div class="col-lg-6 col-md-12">
+        <app-newsletter-card></app-newsletter-card>
+      </div>
+    </div>
+
+  </div>
+</div>
+

@@ -1,0 +1,55 @@
+<div class="card card-body be-loading" [ngClass]="{'be-loading-active': loading}">
+  <div *ngIf="trelloInfo;then trelloInfoDisplay"></div>
+  <div class="be-spinner">
+    <svg width="40px" height="40px" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+      <circle fill="none" stroke-width="4" stroke-linecap="round" cx="33" cy="33" r="30" class="circle"></circle>
+    </svg>
+  </div>
+</div>
+
+<ng-template #trelloInfoDisplay>
+  <div class="card-title text-center">
+    <h3>Trello: {{trelloInfo.cards.name}}</h3>
+  </div>
+  <div class="trello-flex">
+    <div class="trello-user-info" *ngFor="let user of trelloInfo.users">
+      <div class="text-center">
+        <h4>{{user.fullName}}</h4>
+        <p>{{user.cards.length}} cards in this sprint</p>
+
+        <ng-container [ngSwitch]="true">
+          <div role="alert" class="alert alert-success alert-contrast" *ngSwitchCase="user.lists[3].cards.length > user.cards.length - (user.cards.length/3)">
+            <div class="icon">
+              <span class="mdi mdi-check"></span>
+            </div>
+            <div class="message">
+              <strong>{{user.lists[3].cards.length}}/{{user.cards.length}}</strong> Cards Completed!</div>
+          </div>
+
+          <div role="alert" class="alert alert-primary alert-contrast" *ngSwitchCase="user.lists[3].cards.length > 0 && user.lists[3].cards.length <= user.cards.length - (user.cards.length/3)">
+            <div class="icon">
+              <span class="mdi mdi-info-outline"></span>
+            </div>
+            <div class="message">
+              <strong>{{user.lists[3].cards.length}}/{{user.cards.length}}</strong> Cards Completed.
+            </div>
+          </div>
+
+          <div role="alert" class="alert alert-warning alert-contrast" *ngSwitchCase="user.lists[3].cards.length === 0">
+            <div class="icon">
+              <span class="mdi mdi-alert-triangle"></span>
+            </div>
+            <div class="message">
+              <strong>{{user.lists[1].cards.length}}</strong> Cards in Progress</div>
+          </div>
+        </ng-container>
+      </div>
+    </div>
+  </div>
+  <app-sprint-progress-bar></app-sprint-progress-bar>
+
+</ng-template>
+
+<ng-template #loaderIcon>
+  <app-loader-icon></app-loader-icon>
+</ng-template>

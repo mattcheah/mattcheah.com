@@ -1,0 +1,174 @@
+<div class="be-content">
+  <div class="page-head" *ngIf="user">
+    <div class="page-head-left">
+      <h2 class="page-head-title">{{userName}}</h2>
+      <nav aria-label="breadcrumb" role="navigation">
+        <ol class="breadcrumb page-head-nav">
+          <li class="breadcrumb-item">
+            <a href="/">Home</a>
+          </li>
+          <li class="breadcrumb-item active">{{user.login}}</li>
+        </ol>
+      </nav>
+    </div>
+    <app-date-picker></app-date-picker>
+  </div>
+  <div class="main-content container-fluid be-loading" [ngClass]="{'be-loading-active': loading}">
+    <div id="user-profile-info" *ngIf="user">
+      <div class="d-flex">
+        <div class="avatar">
+          <img src="{{user.avatarUrl}}">
+        </div>
+        <div class="user-profile">
+          <h2>Name: {{userName}}</h2>
+          <p><a href="https://github.com/{{user.login}}">View on Github</a></p>
+        </div>
+      </div>
+
+      <div class="row">
+
+        <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+          <div class="card">
+            <div class="card-header">
+              <h3>Github Stats for {{rangeString}}</h3>
+            </div>
+            <div class="card-body">
+              <table id="total-stats-table" class="table">
+                <tbody>
+                  <tr>
+                    <td width="30%"><span id="sparkline-commits" class="sparkline"></span></td>
+                    <td>Total Commits:</td>
+                    <td>{{user.totalCommits}}</td>
+                  </tr>
+                  <tr>
+                    <td><span id="sparkline-file-changes" class="sparkline"></span></td>
+                    <td>Total File Changes:</td>
+                    <td>{{user.totalFileChanges}}</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="2"><span id="sparkline-additions-deletions" class="sparkpie"></span></td>
+                    <td>Total Line Additions:</td>
+                    <td>{{user.totalAdditions}}</td>
+                  </tr>
+                  <tr>
+                    <td>Total Line Deletions:</td>
+                    <td>{{user.totalDeletions}}</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+          <div class="card">
+            <div class="card-header">
+              <h3>Github Averages</h3>
+            </div>
+            <div class="card-body">
+              <table class="table">
+                <tbody>
+                  <tr>
+                    <td></td>
+                    <td>Average File Changes per Commit:</td>
+                    <td>{{user.averageFileChanges}}</td>
+                  </tr>
+                  <tr>
+                    <td></td>
+                    <td>Average Additions per Commit:</td>
+                    <td>{{user.averageAdditions}}</td>
+                  </tr>
+                  <tr>
+                    <td></td>
+                    <td>Average Deletions per Commit:</td>
+                    <td>{{user.averageDeletions}}</td>
+                  </tr>
+                  <tr>
+                    <td></td>
+                    <td>Average Net Additions per Commit (additions minus deletions):</td>
+                    <td>{{user.averageLineChangeSum}}</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-12">
+          <div class="card">
+            <div class="card-header">
+              <h3>Recent Commits</h3>
+            </div>
+            <div class="card-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th>Date</th>
+                    <th>Commit Message</th>
+                    <th>Additions</th>
+                    <th>Deletions</th>
+                    <th>Files Changed</th>
+                  </tr>
+                </thead>
+                <tbody *ngFor="let commit of user.commits | slice: 0: maxCommits">
+                  <tr>
+                    <td>{{commit.node.author.date | date: 'short'}}</td>
+                    <td>{{commit.node.messageHeadline}}</td>
+                    <td>{{commit.node.additions}}</td>
+                    <td>{{commit.node.deletions}}</td>
+                    <td>{{commit.node.changedFiles}}</td>
+                  </tr>
+                </tbody>
+              </table>
+              <div class="d-flex justify-content-around">
+                <button class="btn btn-primary" (click)="showCommits(maxCommits + 5)" *ngIf="maxCommits < user.commits.length">Show more commits</button>
+                <button class="btn btn-primary" (click)="showCommits(user.commits.length)" *ngIf="maxCommits < user.commits.length">Show all commits</button>
+                <button class="btn btn-primary" (click)="showCommits(5)" *ngIf="maxCommits !== 5">Show Less</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div> <!-- end .row -->
+
+      <div class="card">
+        <div class="card-header card-header-divider">
+          <h3>{{userName}}'s Trello Cards</h3>
+        </div>
+        <div class="card-body cards-table">
+          <table class="table table-striped table-hover ">
+            <thead>
+              <tr>
+                <th style="width:10%">List</th>
+                <th style="width:25%">Title</th>
+                <th style="width:45%">Description</th>
+                <th style="width:15%">Last Activity</th>
+                <th style="width:5%">Link</th>
+              </tr>
+            </thead>
+            <tbody *ngFor="let list of user.trelloLists">
+              <tr *ngFor="let card of list.cards">
+                <td [ngClass]="list.name | camelCase">
+                  {{list.name}}
+                </td>
+                <td>
+                  {{card.name}}
+                </td>
+                <td class="cell-detail">
+                  <span class="cell-detail-description">{{ card.desc.length > 250 ? card.desc.slice(0,250)+"..." : card.desc }}</span>
+                </td>
+                <td class="">
+                  {{card.dateLastActivity | date: 'short'}}
+                </td>
+                <td class="">
+                  <a href="{{card.shortUrl}}">Link</a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+      </div>
+    </div>
+
+    <app-loader-icon></app-loader-icon>
+  </div>
+</div>

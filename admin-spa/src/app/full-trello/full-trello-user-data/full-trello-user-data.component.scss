@@ -1,0 +1,43 @@
+.full-trello-user {
+  margin:10px 0;
+  padding:5px;
+  .avatar {
+    width:80px;
+    margin-right:20px;
+    img {
+      border-radius:50%;
+      width:100%;
+    }
+  }
+}
+
+.user-list-info-row  {
+  .list-info-col {
+    border-right: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height:50px;
+  }
+
+  .list-info-col:first-child {
+    border-left: 1px solid black;
+  }
+}
+
+.cards-table {
+  margin-top:40px;
+
+  td.pending {
+    box-shadow: inset 7px -2px 0px -2px #ce1179;
+  }
+  td.inProgress {
+    box-shadow: inset 7px -2px 0px -2px #4285f4;
+  }
+  td.forReviewByKFMC{
+    box-shadow: inset 7px -2px 0px -2px #fbbc05;
+  }
+  td.completed {
+    box-shadow: inset 7px -2px 0px -2px #34a853;
+  }
+}

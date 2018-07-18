@@ -1,0 +1,5086 @@
+{
+  "users": [
+
+    {
+      "login": "insarov",
+      "id": "MDQ6VXNlcjQ3NjI5NjA=",
+      "name": null,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/4762960?v=4",
+      "email": "",
+      "commits": []
+    },
+    {
+      "login": "mattcheah",
+      "id": "MDQ6VXNlcjE1ODk4NDQ3",
+      "name": "Matt Cheah",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/15898447?v=4",
+      "email": "matt.cheah@gmail.com",
+      "commits": [
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-07-16T08:57:24-07:00"
+            },
+            "changedFiles": 3,
+            "additions": 3,
+            "deletions": 3
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 0"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-07-16T08:23:52-07:00"
+            },
+            "changedFiles": 2,
+            "additions": 2,
+            "deletions": 2
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 2"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-07-16T08:05:12-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 3"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-07-13T11:55:37-07:00"
+            },
+            "changedFiles": 12,
+            "additions": 34,
+            "deletions": 36
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 4"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-07-13T10:45:48-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 208,
+            "deletions": 0
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 5"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-07-13T10:28:16-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 12,
+            "deletions": 2
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 6"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-07-13T09:32:50-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 7"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-07-13T08:58:14-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 917,
+            "deletions": 0
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 8"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-07-13T08:39:29-07:00"
+            },
+            "changedFiles": 2,
+            "additions": 8,
+            "deletions": 48
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 10"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-07-13T07:47:45-07:00"
+            },
+            "changedFiles": 2,
+            "additions": 1,
+            "deletions": 5
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 11"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-07-12T15:30:51-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 2
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 14"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-07-12T15:29:18-07:00"
+            },
+            "changedFiles": 19,
+            "additions": 68,
+            "deletions": 131
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 15"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-07-12T14:47:20-07:00"
+            },
+            "changedFiles": 11,
+            "additions": 112,
+            "deletions": 94
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 17"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-07-12T11:57:06-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 18"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-07-12T11:48:36-07:00"
+            },
+            "changedFiles": 4,
+            "additions": 217,
+            "deletions": 6
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 19"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-07-11T12:49:40-07:00"
+            },
+            "changedFiles": 16,
+            "additions": 78,
+            "deletions": 39
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 33"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-07-11T12:05:36-07:00"
+            },
+            "changedFiles": 15,
+            "additions": 173,
+            "deletions": 3
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 34"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-07-11T12:05:18-07:00"
+            },
+            "changedFiles": 3,
+            "additions": 1344,
+            "deletions": 1336
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 35"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-07-11T07:55:07-07:00"
+            },
+            "changedFiles": 13,
+            "additions": 72,
+            "deletions": 267
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 37"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-07-10T09:57:17-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 4,
+            "deletions": 0
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 42"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-07-10T09:46:57-07:00"
+            },
+            "changedFiles": 5,
+            "additions": 12,
+            "deletions": 8
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 43"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-07-10T09:01:22-07:00"
+            },
+            "changedFiles": 85,
+            "additions": 8,
+            "deletions": 3122
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 45"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-07-09T12:11:01-07:00"
+            },
+            "changedFiles": 8,
+            "additions": 20,
+            "deletions": 3086
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 48"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-07-09T09:51:48-07:00"
+            },
+            "changedFiles": 6,
+            "additions": 51,
+            "deletions": 408
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 52"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-07-09T07:33:54-07:00"
+            },
+            "changedFiles": 2,
+            "additions": 9,
+            "deletions": 0
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 53"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-07-09T07:33:28-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 6,
+            "deletions": 6
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 54"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-06-22T14:13:08-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 3,
+            "deletions": 2
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 94"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-06-22T14:03:34-07:00"
+            },
+            "changedFiles": 2,
+            "additions": 132,
+            "deletions": 64
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 97"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-06-21T14:56:01-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 0
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 101"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-06-21T14:54:30-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 102"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-06-21T14:53:08-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 54,
+            "deletions": 22
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 103"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-06-20T15:36:57-07:00"
+            },
+            "changedFiles": 2,
+            "additions": 11,
+            "deletions": 11
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 116"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-06-19T14:23:15-07:00"
+            },
+            "changedFiles": 2,
+            "additions": 3,
+            "deletions": 6
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 127"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-06-19T11:21:46-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 11,
+            "deletions": 0
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 131"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-06-19T11:09:15-07:00"
+            },
+            "changedFiles": 2,
+            "additions": 2,
+            "deletions": 10
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 134"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "marketing",
+              "date": "2018-06-19T11:05:45-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 121,
+            "deletions": 0
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 135"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-06-19T10:28:15-07:00"
+            },
+            "changedFiles": 2,
+            "additions": 11,
+            "deletions": 1
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 136"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-06-19T10:04:05-07:00"
+            },
+            "changedFiles": 2,
+            "additions": 9,
+            "deletions": 9
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 137"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-06-19T09:56:18-07:00"
+            },
+            "changedFiles": 3,
+            "additions": 5,
+            "deletions": 9
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 138"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "mattcheah",
+                "id": "MDQ6VXNlcjE1ODk4NDQ3"
+              },
+              "name": "Matt Cheah",
+              "date": "2018-06-18T15:03:16-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 143"
+        }
+      ]
+    },
+    {
+      "login": "4kristi",
+      "id": "MDQ6VXNlcjM1MzgyMDkw",
+      "name": "Kristi Feathers",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/35382090?v=4",
+      "email": "",
+      "commits": [
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "4kristi",
+                "id": "MDQ6VXNlcjM1MzgyMDkw"
+              },
+              "name": "Kristi Feathers",
+              "date": "2018-06-26T10:58:33-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 83"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "4kristi",
+                "id": "MDQ6VXNlcjM1MzgyMDkw"
+              },
+              "name": "Kristi Feathers",
+              "date": "2018-06-26T10:56:25-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 85"
+        }
+      ]
+    },
+    {
+      "login": "MReynoso2018",
+      "id": "MDQ6VXNlcjM1MzgyMDky",
+      "name": "Monica Reynoso",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/35382092?v=4",
+      "email": "",
+      "commits": [
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-16T08:28:36-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 10,
+            "deletions": 9
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 1"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-12T14:51:10-07:00"
+            },
+            "changedFiles": 2,
+            "additions": 2,
+            "deletions": 2
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 16"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-12T11:00:09-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 20"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-12T10:41:16-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 21"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-12T10:34:34-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 1
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 22"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-12T10:29:55-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 4,
+            "deletions": 5
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 23"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-12T10:22:05-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 24"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-12T09:56:13-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 2
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 25"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-12T09:35:48-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 12,
+            "deletions": 12
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 26"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-12T09:12:32-07:00"
+            },
+            "changedFiles": 2,
+            "additions": 2,
+            "deletions": 2
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 27"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-11T16:35:40-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 3,
+            "deletions": 3
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 28"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-11T16:14:25-07:00"
+            },
+            "changedFiles": 2,
+            "additions": 10,
+            "deletions": 7
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 29"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-11T16:01:03-07:00"
+            },
+            "changedFiles": 6,
+            "additions": 161,
+            "deletions": 0
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 30"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-10T08:19:08-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 3,
+            "deletions": 1
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 46"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-09T13:27:07-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 47"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-09T11:37:17-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 49"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-09T11:13:34-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 50"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-09T11:05:02-07:00"
+            },
+            "changedFiles": 7,
+            "additions": 141,
+            "deletions": 98
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 51"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-05T13:02:29-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 5,
+            "deletions": 9
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 57"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-05T11:50:33-07:00"
+            },
+            "changedFiles": 3,
+            "additions": 74,
+            "deletions": 12
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 58"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-05T09:36:42-07:00"
+            },
+            "changedFiles": 4,
+            "additions": 15,
+            "deletions": 3
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 59"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-05T08:49:29-07:00"
+            },
+            "changedFiles": 7,
+            "additions": 57,
+            "deletions": 3
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 60"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-03T16:20:42-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 63"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-03T16:19:15-07:00"
+            },
+            "changedFiles": 2,
+            "additions": 8,
+            "deletions": 2
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 64"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-03T16:09:12-07:00"
+            },
+            "changedFiles": 2,
+            "additions": 67,
+            "deletions": 7
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 65"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-03T10:09:36-07:00"
+            },
+            "changedFiles": 4,
+            "additions": 66,
+            "deletions": 4
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 68"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-02T15:24:26-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 2
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 71"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-02T15:23:16-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 8,
+            "deletions": 8
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 72"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-02T14:53:40-07:00"
+            },
+            "changedFiles": 28,
+            "additions": 44,
+            "deletions": 232
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 73"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-02T14:50:47-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 0,
+            "deletions": 0
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 74"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-02T14:48:51-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 6,
+            "deletions": 5
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 76"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-02T14:48:26-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 9,
+            "deletions": 9
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 77"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-02T14:45:35-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 7,
+            "deletions": 7
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 78"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-07-02T14:45:17-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 7,
+            "deletions": 7
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 79"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-06-26T09:39:40-07:00"
+            },
+            "changedFiles": 4,
+            "additions": 66,
+            "deletions": 10
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 86"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-06-25T16:34:07-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 7,
+            "deletions": 1
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 87"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-06-25T15:59:02-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 13,
+            "deletions": 3
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 88"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-06-25T15:57:41-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 89"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-06-25T15:56:08-07:00"
+            },
+            "changedFiles": 8,
+            "additions": 54,
+            "deletions": 6
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 90"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-06-25T11:10:11-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 2
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 91"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-06-25T09:43:44-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 92"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-06-25T09:28:50-07:00"
+            },
+            "changedFiles": 5,
+            "additions": 47,
+            "deletions": 8
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 93"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-06-21T15:56:43-07:00"
+            },
+            "changedFiles": 3,
+            "additions": 37,
+            "deletions": 9
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 100"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-06-21T13:27:04-07:00"
+            },
+            "changedFiles": 5,
+            "additions": 39,
+            "deletions": 4
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 106"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-06-21T09:50:23-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 108"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-06-21T09:39:05-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 111"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-06-21T09:38:07-07:00"
+            },
+            "changedFiles": 4,
+            "additions": 59,
+            "deletions": 10
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 112"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-06-19T11:16:34-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 132"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-06-19T11:14:13-07:00"
+            },
+            "changedFiles": 4,
+            "additions": 70,
+            "deletions": 10
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 133"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-06-19T08:45:49-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 139"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-06-19T08:45:07-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 2
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 140"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-06-19T08:42:38-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 0,
+            "deletions": 0
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 141"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-06-18T14:22:30-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 34,
+            "deletions": 8
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 144"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-06-18T14:21:33-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 145"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "MReynoso2018",
+                "id": "MDQ6VXNlcjM1MzgyMDky"
+              },
+              "name": "MReynoso2018",
+              "date": "2018-06-18T14:04:59-07:00"
+            },
+            "changedFiles": 4,
+            "additions": 43,
+            "deletions": 4
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 147"
+        }
+      ]
+    },
+    {
+      "login": "bobbyhasbrook",
+      "id": "MDQ6VXNlcjM1MzgyMDkz",
+      "name": "Bobby Hasbrook",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/35382093?v=4",
+      "email": "",
+      "commits": [
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "bobbyhasbrook",
+                "id": "MDQ6VXNlcjM1MzgyMDkz"
+              },
+              "name": "Bobby",
+              "date": "2018-07-16T17:01:06-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 36,
+            "deletions": 112
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 13"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "bobbyhasbrook",
+                "id": "MDQ6VXNlcjM1MzgyMDkz"
+              },
+              "name": "Bobby",
+              "date": "2018-07-12T17:01:06-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 36,
+            "deletions": 112
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 13"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "bobbyhasbrook",
+                "id": "MDQ6VXNlcjM1MzgyMDkz"
+              },
+              "name": "Bobby",
+              "date": "2018-07-11T15:36:56-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 2
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 31"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "bobbyhasbrook",
+                "id": "MDQ6VXNlcjM1MzgyMDkz"
+              },
+              "name": "Bobby",
+              "date": "2018-07-11T15:27:44-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 14,
+            "deletions": 7
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 32"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "bobbyhasbrook",
+                "id": "MDQ6VXNlcjM1MzgyMDkz"
+              },
+              "name": "Bobby",
+              "date": "2018-07-11T08:51:47-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 10,
+            "deletions": 7
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 36"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "bobbyhasbrook",
+                "id": "MDQ6VXNlcjM1MzgyMDkz"
+              },
+              "name": "Bobby",
+              "date": "2018-07-10T16:30:49-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 0
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 38"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "bobbyhasbrook",
+                "id": "MDQ6VXNlcjM1MzgyMDkz"
+              },
+              "name": "Bobby",
+              "date": "2018-07-10T16:28:52-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 20,
+            "deletions": 23
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 39"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "bobbyhasbrook",
+                "id": "MDQ6VXNlcjM1MzgyMDkz"
+              },
+              "name": "Bobby",
+              "date": "2018-07-10T14:33:34-07:00"
+            },
+            "changedFiles": 2,
+            "additions": 24,
+            "deletions": 12
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 41"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "bobbyhasbrook",
+                "id": "MDQ6VXNlcjM1MzgyMDkz"
+              },
+              "name": "Bobby",
+              "date": "2018-07-05T13:33:06-07:00"
+            },
+            "changedFiles": 4,
+            "additions": 8,
+            "deletions": 5
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 56"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "bobbyhasbrook",
+                "id": "MDQ6VXNlcjM1MzgyMDkz"
+              },
+              "name": "Bobby",
+              "date": "2018-07-03T17:05:10-07:00"
+            },
+            "changedFiles": 5,
+            "additions": 12,
+            "deletions": 14
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 62"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "bobbyhasbrook",
+                "id": "MDQ6VXNlcjM1MzgyMDkz"
+              },
+              "name": "Bobby",
+              "date": "2018-07-03T15:20:32-07:00"
+            },
+            "changedFiles": 3,
+            "additions": 22,
+            "deletions": 27
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 67"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "bobbyhasbrook",
+                "id": "MDQ6VXNlcjM1MzgyMDkz"
+              },
+              "name": "Bobby",
+              "date": "2018-07-03T08:44:13-07:00"
+            },
+            "changedFiles": 2,
+            "additions": 22,
+            "deletions": 22
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 70"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "bobbyhasbrook",
+                "id": "MDQ6VXNlcjM1MzgyMDkz"
+              },
+              "name": "Bobby",
+              "date": "2018-06-28T13:54:20-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 6,
+            "deletions": 6
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 80"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "bobbyhasbrook",
+                "id": "MDQ6VXNlcjM1MzgyMDkz"
+              },
+              "name": "Bobby",
+              "date": "2018-06-26T14:57:22-07:00"
+            },
+            "changedFiles": 4,
+            "additions": 66,
+            "deletions": 4
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 82"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "bobbyhasbrook",
+                "id": "MDQ6VXNlcjM1MzgyMDkz"
+              },
+              "name": "Bobby",
+              "date": "2018-06-22T11:22:13-07:00"
+            },
+            "changedFiles": 2,
+            "additions": 13,
+            "deletions": 11
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 99"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "bobbyhasbrook",
+                "id": "MDQ6VXNlcjM1MzgyMDkz"
+              },
+              "name": "Bobby",
+              "date": "2018-06-21T14:30:48-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 0
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 105"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "bobbyhasbrook",
+                "id": "MDQ6VXNlcjM1MzgyMDkz"
+              },
+              "name": "Bobby",
+              "date": "2018-06-21T09:47:41-07:00"
+            },
+            "changedFiles": 2,
+            "additions": 10,
+            "deletions": 11
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 110"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "bobbyhasbrook",
+                "id": "MDQ6VXNlcjM1MzgyMDkz"
+              },
+              "name": "Bobby",
+              "date": "2018-06-21T09:07:36-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 2
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 114"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "bobbyhasbrook",
+                "id": "MDQ6VXNlcjM1MzgyMDkz"
+              },
+              "name": "Bobby",
+              "date": "2018-06-20T15:26:22-07:00"
+            },
+            "changedFiles": 2,
+            "additions": 3,
+            "deletions": 1
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 117"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "bobbyhasbrook",
+                "id": "MDQ6VXNlcjM1MzgyMDkz"
+              },
+              "name": "Bobby",
+              "date": "2018-06-20T09:18:47-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 3,
+            "deletions": 3
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 118"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "bobbyhasbrook",
+                "id": "MDQ6VXNlcjM1MzgyMDkz"
+              },
+              "name": "Bobby",
+              "date": "2018-06-20T09:18:09-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 119"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "bobbyhasbrook",
+                "id": "MDQ6VXNlcjM1MzgyMDkz"
+              },
+              "name": "Bobby",
+              "date": "2018-06-20T08:47:27-07:00"
+            },
+            "changedFiles": 2,
+            "additions": 15,
+            "deletions": 4
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 120"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "bobbyhasbrook",
+                "id": "MDQ6VXNlcjM1MzgyMDkz"
+              },
+              "name": "Bobby",
+              "date": "2018-06-20T08:36:30-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 12,
+            "deletions": 1
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 121"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "bobbyhasbrook",
+                "id": "MDQ6VXNlcjM1MzgyMDkz"
+              },
+              "name": "Bobby",
+              "date": "2018-06-19T16:21:43-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 122"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "bobbyhasbrook",
+                "id": "MDQ6VXNlcjM1MzgyMDkz"
+              },
+              "name": "Bobby",
+              "date": "2018-06-19T16:18:47-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 7,
+            "deletions": 0
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 123"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "bobbyhasbrook",
+                "id": "MDQ6VXNlcjM1MzgyMDkz"
+              },
+              "name": "Bobby",
+              "date": "2018-06-19T16:15:20-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 124"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "bobbyhasbrook",
+                "id": "MDQ6VXNlcjM1MzgyMDkz"
+              },
+              "name": "Bobby",
+              "date": "2018-06-19T16:11:44-07:00"
+            },
+            "changedFiles": 7,
+            "additions": 491,
+            "deletions": 44
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 126"
+        },
+        {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "bobbyhasbrook",
+                "id": "MDQ6VXNlcjM1MzgyMDkz"
+              },
+              "name": "Bobby",
+              "date": "2018-06-19T12:58:42-07:00"
+            },
+            "changedFiles": 8,
+            "additions": 348,
+            "deletions": 0
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 129"
+        }
+      ]
+    }
+  ],
+  
+  "commits": [
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-16T08:57:24-07:00"
+        },
+        "changedFiles": 3,
+        "additions": 3,
+        "deletions": 3
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 0"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-16T08:28:36-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 10,
+        "deletions": 9
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 1"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-16T08:23:52-07:00"
+        },
+        "changedFiles": 2,
+        "additions": 2,
+        "deletions": 2
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 2"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-16T08:05:12-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 1,
+        "deletions": 1
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 3"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-13T11:55:37-07:00"
+        },
+        "changedFiles": 12,
+        "additions": 34,
+        "deletions": 36
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 4"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-13T10:45:48-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 208,
+        "deletions": 0
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 5"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-13T10:28:16-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 12,
+        "deletions": 2
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 6"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-13T09:32:50-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 1,
+        "deletions": 1
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 7"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-13T08:58:14-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 917,
+        "deletions": 0
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 8"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-13T08:40:34-07:00"
+        },
+        "changedFiles": 41,
+        "additions": 1769,
+        "deletions": 1836
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 9"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-13T08:39:29-07:00"
+        },
+        "changedFiles": 2,
+        "additions": 8,
+        "deletions": 48
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 10"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-13T07:47:45-07:00"
+        },
+        "changedFiles": 2,
+        "additions": 1,
+        "deletions": 5
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 11"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-07-12T17:01:24-07:00"
+        },
+        "changedFiles": 14,
+        "additions": 384,
+        "deletions": 9
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 12"
+    },
+    {
+          "node": {
+            "messageHeadline": "Mock Commit Data",
+            "author": {
+              "user": {
+                "login": "bobbyhasbrook",
+                "id": "MDQ6VXNlcjM1MzgyMDkz"
+              },
+              "name": "Bobby",
+              "date": "2018-07-16T17:01:06-07:00"
+            },
+            "changedFiles": 1,
+            "additions": 36,
+            "deletions": 112
+          },
+          "cursor": "5fa52540616404942b872d244ba367bd11af7231 13"
+        },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-07-12T17:01:06-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 36,
+        "deletions": 112
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 13"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-12T15:30:51-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 2,
+        "deletions": 2
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 14"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-12T15:29:18-07:00"
+        },
+        "changedFiles": 19,
+        "additions": 68,
+        "deletions": 131
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 15"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-12T14:51:10-07:00"
+        },
+        "changedFiles": 2,
+        "additions": 2,
+        "deletions": 2
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 16"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-12T14:47:20-07:00"
+        },
+        "changedFiles": 11,
+        "additions": 112,
+        "deletions": 94
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 17"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-12T11:57:06-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 1,
+        "deletions": 1
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 18"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-12T11:48:36-07:00"
+        },
+        "changedFiles": 4,
+        "additions": 217,
+        "deletions": 6
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 19"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-12T11:00:09-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 1,
+        "deletions": 1
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 20"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-12T10:41:16-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 1,
+        "deletions": 1
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 21"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-12T10:34:34-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 2,
+        "deletions": 1
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 22"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-12T10:29:55-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 4,
+        "deletions": 5
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 23"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-12T10:22:05-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 1,
+        "deletions": 1
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 24"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-12T09:56:13-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 2,
+        "deletions": 2
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 25"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-12T09:35:48-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 12,
+        "deletions": 12
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 26"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-12T09:12:32-07:00"
+        },
+        "changedFiles": 2,
+        "additions": 2,
+        "deletions": 2
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 27"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-11T16:35:40-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 3,
+        "deletions": 3
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 28"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-11T16:14:25-07:00"
+        },
+        "changedFiles": 2,
+        "additions": 10,
+        "deletions": 7
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 29"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-11T16:01:03-07:00"
+        },
+        "changedFiles": 6,
+        "additions": 161,
+        "deletions": 0
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 30"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-07-11T15:36:56-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 2,
+        "deletions": 2
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 31"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-07-11T15:27:44-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 14,
+        "deletions": 7
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 32"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-11T12:49:40-07:00"
+        },
+        "changedFiles": 16,
+        "additions": 78,
+        "deletions": 39
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 33"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-11T12:05:36-07:00"
+        },
+        "changedFiles": 15,
+        "additions": 173,
+        "deletions": 3
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 34"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-11T12:05:18-07:00"
+        },
+        "changedFiles": 3,
+        "additions": 1344,
+        "deletions": 1336
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 35"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-07-11T08:51:47-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 10,
+        "deletions": 7
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 36"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-11T07:55:07-07:00"
+        },
+        "changedFiles": 13,
+        "additions": 72,
+        "deletions": 267
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 37"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-07-10T16:30:49-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 2,
+        "deletions": 0
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 38"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-07-10T16:28:52-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 20,
+        "deletions": 23
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 39"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-07-10T14:33:46-07:00"
+        },
+        "changedFiles": 103,
+        "additions": 231,
+        "deletions": 3158
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 40"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-07-10T14:33:34-07:00"
+        },
+        "changedFiles": 2,
+        "additions": 24,
+        "deletions": 12
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 41"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-10T09:57:17-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 4,
+        "deletions": 0
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 42"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-10T09:46:57-07:00"
+        },
+        "changedFiles": 5,
+        "additions": 12,
+        "deletions": 8
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 43"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-10T09:01:33-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 3,
+        "deletions": 1
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 44"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-10T09:01:22-07:00"
+        },
+        "changedFiles": 85,
+        "additions": 8,
+        "deletions": 3122
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 45"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-10T08:19:08-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 3,
+        "deletions": 1
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 46"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-09T13:27:07-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 1,
+        "deletions": 1
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 47"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-09T12:11:01-07:00"
+        },
+        "changedFiles": 8,
+        "additions": 20,
+        "deletions": 3086
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 48"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-09T11:37:17-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 1,
+        "deletions": 1
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 49"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-09T11:13:34-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 1,
+        "deletions": 1
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 50"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-09T11:05:02-07:00"
+        },
+        "changedFiles": 7,
+        "additions": 141,
+        "deletions": 98
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 51"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-09T09:51:48-07:00"
+        },
+        "changedFiles": 6,
+        "additions": 51,
+        "deletions": 408
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 52"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-09T07:33:54-07:00"
+        },
+        "changedFiles": 2,
+        "additions": 9,
+        "deletions": 0
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 53"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-09T07:33:28-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 6,
+        "deletions": 6
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 54"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-07-05T13:33:19-07:00"
+        },
+        "changedFiles": 15,
+        "additions": 151,
+        "deletions": 27
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 55"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-07-05T13:33:06-07:00"
+        },
+        "changedFiles": 4,
+        "additions": 8,
+        "deletions": 5
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 56"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-05T13:02:29-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 5,
+        "deletions": 9
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 57"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-05T11:50:33-07:00"
+        },
+        "changedFiles": 3,
+        "additions": 74,
+        "deletions": 12
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 58"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-05T09:36:42-07:00"
+        },
+        "changedFiles": 4,
+        "additions": 15,
+        "deletions": 3
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 59"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-05T08:49:29-07:00"
+        },
+        "changedFiles": 7,
+        "additions": 57,
+        "deletions": 3
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 60"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-07-03T17:05:17-07:00"
+        },
+        "changedFiles": 3,
+        "additions": 75,
+        "deletions": 9
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 61"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-07-03T17:05:10-07:00"
+        },
+        "changedFiles": 5,
+        "additions": 12,
+        "deletions": 14
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 62"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-03T16:20:42-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 1,
+        "deletions": 1
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 63"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-03T16:19:15-07:00"
+        },
+        "changedFiles": 2,
+        "additions": 8,
+        "deletions": 2
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 64"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-03T16:09:12-07:00"
+        },
+        "changedFiles": 2,
+        "additions": 67,
+        "deletions": 7
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 65"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-07-03T15:20:44-07:00"
+        },
+        "changedFiles": 4,
+        "additions": 66,
+        "deletions": 4
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 66"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-07-03T15:20:32-07:00"
+        },
+        "changedFiles": 3,
+        "additions": 22,
+        "deletions": 27
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 67"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-03T10:09:36-07:00"
+        },
+        "changedFiles": 4,
+        "additions": 66,
+        "deletions": 4
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 68"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-07-03T09:11:51-07:00"
+        },
+        "changedFiles": 10,
+        "additions": 49,
+        "deletions": 110
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 69"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-07-03T08:44:13-07:00"
+        },
+        "changedFiles": 2,
+        "additions": 22,
+        "deletions": 22
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 70"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-02T15:24:26-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 2,
+        "deletions": 2
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 71"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-02T15:23:16-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 8,
+        "deletions": 8
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 72"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-02T14:53:40-07:00"
+        },
+        "changedFiles": 28,
+        "additions": 44,
+        "deletions": 232
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 73"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-02T14:50:47-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 0,
+        "deletions": 0
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 74"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-02T14:50:36-07:00"
+        },
+        "changedFiles": 28,
+        "additions": 232,
+        "deletions": 44
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 75"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-02T14:48:51-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 6,
+        "deletions": 5
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 76"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-02T14:48:26-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 9,
+        "deletions": 9
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 77"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-02T14:45:35-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 7,
+        "deletions": 7
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 78"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-02T14:45:17-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 7,
+        "deletions": 7
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 79"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-06-28T13:54:20-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 6,
+        "deletions": 6
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 80"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-06-26T14:58:13-07:00"
+        },
+        "changedFiles": 19,
+        "additions": 360,
+        "deletions": 101
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 81"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-06-26T14:57:22-07:00"
+        },
+        "changedFiles": 4,
+        "additions": 66,
+        "deletions": 4
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 82"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "4kristi",
+            "id": "MDQ6VXNlcjM1MzgyMDkw"
+          },
+          "name": "Kristi Feathers",
+          "date": "2018-06-26T10:58:33-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 1,
+        "deletions": 1
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 83"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "4kristi",
+            "id": "MDQ6VXNlcjM1MzgyMDkw"
+          },
+          "name": "Kristi Feathers",
+          "date": "2018-06-26T10:56:32-07:00"
+        },
+        "changedFiles": 300,
+        "additions": 946599,
+        "deletions": 207
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 84"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "4kristi",
+            "id": "MDQ6VXNlcjM1MzgyMDkw"
+          },
+          "name": "Kristi Feathers",
+          "date": "2018-06-26T10:56:25-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 1,
+        "deletions": 1
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 85"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-06-26T09:39:40-07:00"
+        },
+        "changedFiles": 4,
+        "additions": 66,
+        "deletions": 10
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 86"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-06-25T16:34:07-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 7,
+        "deletions": 1
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 87"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-06-25T15:59:02-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 13,
+        "deletions": 3
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 88"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-06-25T15:57:41-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 1,
+        "deletions": 1
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 89"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-06-25T15:56:08-07:00"
+        },
+        "changedFiles": 8,
+        "additions": 54,
+        "deletions": 6
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 90"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-06-25T11:10:11-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 2,
+        "deletions": 2
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 91"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-06-25T09:43:44-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 1,
+        "deletions": 1
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 92"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-06-25T09:28:50-07:00"
+        },
+        "changedFiles": 5,
+        "additions": 47,
+        "deletions": 8
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 93"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-06-22T14:13:08-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 3,
+        "deletions": 2
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 94"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-06-22T14:09:11-07:00"
+        },
+        "changedFiles": 2,
+        "additions": 169,
+        "deletions": 70
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 95"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-06-22T14:08:41-07:00"
+        },
+        "changedFiles": 15,
+        "additions": 147,
+        "deletions": 36
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 96"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-06-22T14:03:34-07:00"
+        },
+        "changedFiles": 2,
+        "additions": 132,
+        "deletions": 64
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 97"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-06-22T11:22:21-07:00"
+        },
+        "changedFiles": 4,
+        "additions": 39,
+        "deletions": 10
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 98"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-06-22T11:22:13-07:00"
+        },
+        "changedFiles": 2,
+        "additions": 13,
+        "deletions": 11
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 99"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-06-21T15:56:43-07:00"
+        },
+        "changedFiles": 3,
+        "additions": 37,
+        "deletions": 9
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 100"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-06-21T14:56:01-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 1,
+        "deletions": 0
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 101"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-06-21T14:54:30-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 1,
+        "deletions": 1
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 102"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-06-21T14:53:08-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 54,
+        "deletions": 22
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 103"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-06-21T14:30:55-07:00"
+        },
+        "changedFiles": 6,
+        "additions": 40,
+        "deletions": 5
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 104"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-06-21T14:30:48-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 2,
+        "deletions": 0
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 105"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-06-21T13:27:04-07:00"
+        },
+        "changedFiles": 5,
+        "additions": 39,
+        "deletions": 4
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 106"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-06-21T09:50:29-07:00"
+        },
+        "changedFiles": 2,
+        "additions": 10,
+        "deletions": 11
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 107"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-06-21T09:50:23-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 1,
+        "deletions": 1
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 108"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-06-21T09:47:50-07:00"
+        },
+        "changedFiles": 4,
+        "additions": 59,
+        "deletions": 10
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 109"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-06-21T09:47:41-07:00"
+        },
+        "changedFiles": 2,
+        "additions": 10,
+        "deletions": 11
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 110"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-06-21T09:39:05-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 1,
+        "deletions": 1
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 111"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-06-21T09:38:07-07:00"
+        },
+        "changedFiles": 4,
+        "additions": 59,
+        "deletions": 10
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 112"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-06-21T09:11:33-07:00"
+        },
+        "changedFiles": 2,
+        "additions": 11,
+        "deletions": 11
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 113"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-06-21T09:07:36-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 2,
+        "deletions": 2
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 114"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-06-20T15:37:02-07:00"
+        },
+        "changedFiles": 2,
+        "additions": 3,
+        "deletions": 1
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 115"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-06-20T15:36:57-07:00"
+        },
+        "changedFiles": 2,
+        "additions": 11,
+        "deletions": 11
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 116"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-06-20T15:26:22-07:00"
+        },
+        "changedFiles": 2,
+        "additions": 3,
+        "deletions": 1
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 117"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-06-20T09:18:47-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 3,
+        "deletions": 3
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 118"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-06-20T09:18:09-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 1,
+        "deletions": 1
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 119"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-06-20T08:47:27-07:00"
+        },
+        "changedFiles": 2,
+        "additions": 15,
+        "deletions": 4
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 120"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-06-20T08:36:30-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 12,
+        "deletions": 1
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 121"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-06-19T16:21:43-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 1,
+        "deletions": 1
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 122"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-06-19T16:18:47-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 7,
+        "deletions": 0
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 123"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-06-19T16:15:20-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 1,
+        "deletions": 1
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 124"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-06-19T16:11:52-07:00"
+        },
+        "changedFiles": 2,
+        "additions": 3,
+        "deletions": 6
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 125"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-06-19T16:11:44-07:00"
+        },
+        "changedFiles": 7,
+        "additions": 491,
+        "deletions": 44
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 126"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-06-19T14:23:15-07:00"
+        },
+        "changedFiles": 2,
+        "additions": 3,
+        "deletions": 6
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 127"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-06-19T12:59:07-07:00"
+        },
+        "changedFiles": 300,
+        "additions": 945293,
+        "deletions": 96
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 128"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-06-19T12:58:42-07:00"
+        },
+        "changedFiles": 8,
+        "additions": 348,
+        "deletions": 0
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 129"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-06-19T11:21:51-07:00"
+        },
+        "changedFiles": 4,
+        "additions": 70,
+        "deletions": 10
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 130"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-06-19T11:21:46-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 11,
+        "deletions": 0
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 131"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-06-19T11:16:34-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 1,
+        "deletions": 1
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 132"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-06-19T11:14:13-07:00"
+        },
+        "changedFiles": 4,
+        "additions": 70,
+        "deletions": 10
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 133"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-06-19T11:09:15-07:00"
+        },
+        "changedFiles": 2,
+        "additions": 2,
+        "deletions": 10
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 134"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "marketing",
+          "date": "2018-06-19T11:05:45-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 121,
+        "deletions": 0
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 135"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-06-19T10:28:15-07:00"
+        },
+        "changedFiles": 2,
+        "additions": 11,
+        "deletions": 1
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 136"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-06-19T10:04:05-07:00"
+        },
+        "changedFiles": 2,
+        "additions": 9,
+        "deletions": 9
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 137"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-06-19T09:56:18-07:00"
+        },
+        "changedFiles": 3,
+        "additions": 5,
+        "deletions": 9
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 138"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-06-19T08:45:49-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 1,
+        "deletions": 1
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 139"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-06-19T08:45:07-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 2,
+        "deletions": 2
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 140"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-06-19T08:42:38-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 0,
+        "deletions": 0
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 141"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-06-18T15:03:21-07:00"
+        },
+        "changedFiles": 44,
+        "additions": 18656,
+        "deletions": 9
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 142"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-06-18T15:03:16-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 1,
+        "deletions": 1
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 143"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-06-18T14:22:30-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 34,
+        "deletions": 8
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 144"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-06-18T14:21:33-07:00"
+        },
+        "changedFiles": 1,
+        "additions": 1,
+        "deletions": 1
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 145"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-06-18T14:15:23-07:00"
+        },
+        "changedFiles": 300,
+        "additions": 945110,
+        "deletions": 167
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 146"
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-06-18T14:04:59-07:00"
+        },
+        "changedFiles": 4,
+        "additions": 43,
+        "deletions": 4
+      },
+      "cursor": "5fa52540616404942b872d244ba367bd11af7231 147"
+    }
+  ],
+  "recentCommits": [
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-07-16T16:01:06-07:00",
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/35382093?v=4"
+        },
+        "changedFiles": 1,
+        "additions": 36,
+        "deletions": 112
+      }
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-16T08:57:24-07:00",
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/15898447?v=4"
+        },
+        "changedFiles": 3,
+        "additions": 3,
+        "deletions": 3
+      }
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-16T08:28:36-07:00",
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/35382092?v=4"
+        },
+        "changedFiles": 1,
+        "additions": 10,
+        "deletions": 9
+      }
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-16T08:23:52-07:00",
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/15898447?v=4"
+        },
+        "changedFiles": 2,
+        "additions": 2,
+        "deletions": 2
+      }
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-16T08:05:12-07:00",
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/15898447?v=4"
+        },
+        "changedFiles": 1,
+        "additions": 1,
+        "deletions": 1
+      }
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-13T11:55:37-07:00",
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/15898447?v=4"
+        },
+        "changedFiles": 12,
+        "additions": 34,
+        "deletions": 36
+      }
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-13T10:45:48-07:00",
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/15898447?v=4"
+        },
+        "changedFiles": 1,
+        "additions": 208,
+        "deletions": 0
+      }
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-13T10:28:16-07:00",
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/15898447?v=4"
+        },
+        "changedFiles": 1,
+        "additions": 12,
+        "deletions": 2
+      }
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-13T09:32:50-07:00",
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/15898447?v=4"
+        },
+        "changedFiles": 1,
+        "additions": 1,
+        "deletions": 1
+      }
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-13T08:58:14-07:00",
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/15898447?v=4"
+        },
+        "changedFiles": 1,
+        "additions": 917,
+        "deletions": 0
+      }
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-13T08:40:34-07:00",
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/15898447?v=4"
+        },
+        "changedFiles": 41,
+        "additions": 1769,
+        "deletions": 1836
+      }
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-13T08:39:29-07:00",
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/15898447?v=4"
+        },
+        "changedFiles": 2,
+        "additions": 8,
+        "deletions": 48
+      }
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-13T07:47:45-07:00",
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/15898447?v=4"
+        },
+        "changedFiles": 2,
+        "additions": 1,
+        "deletions": 5
+      }
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-07-12T17:01:24-07:00",
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/35382093?v=4"
+        },
+        "changedFiles": 14,
+        "additions": 384,
+        "deletions": 9
+      }
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-07-16T16:01:06-07:00",
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/35382093?v=4"
+        },
+        "changedFiles": 1,
+        "additions": 36,
+        "deletions": 112
+      }
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "bobbyhasbrook",
+            "id": "MDQ6VXNlcjM1MzgyMDkz"
+          },
+          "name": "Bobby",
+          "date": "2018-07-12T17:01:06-07:00",
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/35382093?v=4"
+        },
+        "changedFiles": 1,
+        "additions": 36,
+        "deletions": 112
+      }
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-12T15:30:51-07:00",
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/15898447?v=4"
+        },
+        "changedFiles": 1,
+        "additions": 2,
+        "deletions": 2
+      }
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-12T15:29:18-07:00",
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/15898447?v=4"
+        },
+        "changedFiles": 19,
+        "additions": 68,
+        "deletions": 131
+      }
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "MReynoso2018",
+            "id": "MDQ6VXNlcjM1MzgyMDky"
+          },
+          "name": "MReynoso2018",
+          "date": "2018-07-12T14:51:10-07:00",
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/35382092?v=4"
+        },
+        "changedFiles": 2,
+        "additions": 2,
+        "deletions": 2
+      }
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-12T14:47:20-07:00",
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/15898447?v=4"
+        },
+        "changedFiles": 11,
+        "additions": 112,
+        "deletions": 94
+      }
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-12T11:57:06-07:00",
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/15898447?v=4"
+        },
+        "changedFiles": 1,
+        "additions": 1,
+        "deletions": 1
+      }
+    },
+    {
+      "node": {
+        "messageHeadline": "Mock Commit Data",
+        "author": {
+          "user": {
+            "login": "mattcheah",
+            "id": "MDQ6VXNlcjE1ODk4NDQ3"
+          },
+          "name": "Matt Cheah",
+          "date": "2018-07-12T11:48:36-07:00",
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/15898447?v=4"
+        },
+        "changedFiles": 4,
+        "additions": 217,
+        "deletions": 6
+      }
+    }
+  ]
+}

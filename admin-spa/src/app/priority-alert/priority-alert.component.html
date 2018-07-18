@@ -1,0 +1,74 @@
+ <div *ngIf="showEmergencyCards || showPriorityCards">
+
+  <div role="alert" class="alert alert-dismissible" [ngClass]="alertClasses">
+    <button type="button" data-dismiss="alert" aria-label="Close" class="close" (click)="hideCards()">
+      <span aria-hidden="true" class="mdi mdi-close"></span>
+    </button>
+    <div class="icon">
+      <span class="mdi mdi-close-circle-o"></span>
+    </div>
+    <div class="message" *ngIf="showEmergencyCards">
+      <strong>Alert!</strong> There {{emergencyCards.length > 1 ? "are "+emergencyCards.length : "is 1" }} emergency task(s) <span *ngIf="showPriorityCards">and {{priorityCards.length}} priority task(s) </span>that are unfinished!
+    </div>
+    <div class="message" *ngIf="!showEmergencyCards">
+      <strong>Alert!</strong> There {{priorityCards.length > 1 ? "are "+priorityCards.length : "is 1" }} priority task(s) that are unfinished!
+    </div>
+  </div>
+
+  <div class="d-flex justify-content-between">
+    <div class="card card-full-color card-full-danger p-2 col-md-3 col-sm-6 col-xs-12" *ngFor="let card of emergencyCards">
+      <div class="card-header card-header-contrast">{{card.name}}
+        <span class="card-subtitle"><a href="{{card.shortUrl}}">Visit this card</a></span>
+      </div>
+      <div class="card-body">
+        <p>{{card.desc || "No Card"}}</p>
+      </div>
+    </div>
+
+      <div class="card card-full-color card-full-warning p-2 col-md-3 col-sm-6 col-xs-12" *ngFor="let card of priorityCards" >
+        <div class="card-header card-header-contrast">{{card.name}}
+          <span class="card-subtitle">
+            <a href="{{card.shortUrl}}">Visit this card</a>
+          </span>
+        </div>
+        <div class="card-body">
+          <p>{{card.desc || "No Card Description"}}</p>
+        </div>
+      </div>
+
+  </div>
+
+</div>
+<!-- 
+<div *ngIf="showPriorityCards">
+
+  <div role="alert" class="alert alert-warning alert-icon alert-icon-border alert-dismissible">
+
+    <div class="icon">
+      <span class="mdi mdi-close-circle-o"></span>
+    </div>
+    <div class="message">
+      <button type="button" data-dismiss="alert" aria-label="Close" class="close" (click)="showPriorityCards = false">
+        <span aria-hidden="true" class="mdi mdi-close"></span>
+      </button>
+      <strong>Warning!</strong> There {{priorityCards.length > 1 ? "are "+priorityCards.length : "is 1" }} priority task(s) that are unfinished!
+    </div>
+  </div>
+
+  <div class="d-flex flex-wrap justify-content-between" >
+
+    <div class="p-2 col-sm-3" *ngFor="let card of priorityCards" >
+      <div class="card card-full-color card-full-warning" >
+        <div class="card-header card-header-contrast">{{card.name}}
+          <span class="card-subtitle">
+            <a href="{{card.shortUrl}}">Visit this card</a>
+          </span>
+        </div>
+        <div class="card-body">
+          <p>{{card.desc || "No Card Description"}}</p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div> -->

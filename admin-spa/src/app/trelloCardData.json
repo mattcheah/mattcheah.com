@@ -1,0 +1,1473 @@
+{
+  "users": [
+    {
+
+      "fullName": "Kristi Feathers",
+      "username": "kristifeathers",
+      "avatarUrl": "https://trello-avatars.s3.amazonaws.com/4bd06013d6db68983b51d363b5f76a4e",
+      "url": "https://trello.com/kristifeathers",
+      "lists": [
+        {
+
+          "name": "Pending",
+          "closed": false,
+
+          "pos": 65535.5,
+          "subscribed": false,
+          "cards": [
+            {
+
+              "name": "MOCK - Top Places to Work media kit. Order by 7/23/",
+              "idList": "5a38571d0083dae3c387dd4c",
+              "dateLastActivity": "2018-06-14T21:59:45.876Z",
+              "desc": "",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a3857cf8f74332d2ec1588c"
+              ]
+            }
+          ]
+        },
+        {
+
+          "name": "In Progress",
+          "closed": false,
+
+          "pos": 131071,
+          "subscribed": false,
+          "cards": [
+            {
+
+              "name": "MOCK - create ad copy and artwork for CLE magazine",
+              "idList": "5a3855c309e03f4f8153242b",
+              "dateLastActivity": "2018-07-09T18:49:00.888Z",
+              "desc": "",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a3857cf8f74332d2ec1588c"
+              ]
+            },
+            {
+
+              "name": "MOCK - Create 5-10 new backlinks off of latest competitor report.",
+              "idList": "5a3855c309e03f4f8153242b",
+              "dateLastActivity": "2018-07-09T18:49:25.664Z",
+              "desc": "",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a3857cf8f74332d2ec1588c"
+              ]
+            },
+            {
+
+              "name": "MOCK - Check MR & RH pages (seo, content, typos), Share blogs, update SM",
+              "idList": "5a3855c309e03f4f8153242b",
+              "dateLastActivity": "2018-07-09T18:50:50.229Z",
+              "desc": "Monthly: run ranking reports, review, adjust and update pages as needed based on placement. Review overall progress and stats on Ryan's Ad campaigns for budget improvement. Update budget sheet. Renew directory listings (monthly payable ones).",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a3857cf8f74332d2ec1588c"
+              ]
+            },
+            {
+
+              "name": "MOCK - run new full crawl on BA with ahrefs check for technical issues",
+              "idList": "5a3855c309e03f4f8153242b",
+              "dateLastActivity": "2018-06-14T23:10:06.292Z",
+              "desc": "",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a3857cf8f74332d2ec1588c"
+              ]
+            },
+            {
+
+              "name": "MOCK - Renew Chambers Annual (4 locations)",
+              "idList": "5a3855c309e03f4f8153242b",
+              "dateLastActivity": "2018-07-09T18:48:40.554Z",
+              "desc": "",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a3857cf8f74332d2ec1588c"
+              ]
+            }
+          ]
+        },
+        {
+
+          "name": "For Review by KF/MC",
+          "closed": false,
+
+          "pos": 163839,
+          "subscribed": false,
+          "cards": []
+        },
+        {
+
+          "name": "Completed",
+          "closed": false,
+
+          "pos": 229375,
+          "subscribed": false,
+          "cards": [
+            {
+
+              "name": "MOCK - clean out Asana list and add to Trello",
+              "idList": "5aa96bdbdb26e9603f0e3d13",
+              "dateLastActivity": "2018-07-09T18:46:19.018Z",
+              "desc": "",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a3857cf8f74332d2ec1588c"
+              ]
+            },
+            {
+
+              "name": "MOCK - Rewrite meta descriptions for specific pages.",
+              "idList": "5aa96bdbdb26e9603f0e3d13",
+              "dateLastActivity": "2018-07-09T18:47:39.640Z",
+              "desc": "Kristi will work on these. If I need help I'll ask Monica or Bobby.",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a3857cf8f74332d2ec1588c",
+                "5a385d8f2344a8d1eed4b95a",
+                "5a3857f8f4bc1727a80f8237"
+              ]
+            },
+            {
+
+              "name": "MOCK - update GMB \"posts\" for 4 locations.  This helps with local rankings.",
+              "idList": "5aa96bdbdb26e9603f0e3d13",
+              "dateLastActivity": "2018-06-14T23:09:07.930Z",
+              "desc": "",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a3857cf8f74332d2ec1588c"
+              ]
+            },
+            {
+
+              "name": "MOCK - Everyone: Review scholarship winner final picks",
+              "idList": "5aa96bdbdb26e9603f0e3d13",
+              "dateLastActivity": "2018-07-09T14:43:35.515Z",
+              "desc": "",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a38555b8e193ba3b4d29582",
+                "5a3857cf8f74332d2ec1588c",
+                "5a3857f8f4bc1727a80f8237",
+                "5a385d8f2344a8d1eed4b95a",
+                "5a385951d197f8c4d6382000"
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+
+          "name": "MOCK - Top Places to Work media kit. Order by 7/23/",
+          "idList": "5a38571d0083dae3c387dd4c",
+          "dateLastActivity": "2018-06-14T21:59:45.876Z",
+          "desc": "",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a3857cf8f74332d2ec1588c"
+          ]
+        },
+        {
+
+          "name": "MOCK - create ad copy and artwork for CLE magazine",
+          "idList": "5a3855c309e03f4f8153242b",
+          "dateLastActivity": "2018-07-09T18:49:00.888Z",
+          "desc": "",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a3857cf8f74332d2ec1588c"
+          ]
+        },
+        {
+
+          "name": "MOCK - Create 5-10 new backlinks off of latest competitor report.",
+          "idList": "5a3855c309e03f4f8153242b",
+          "dateLastActivity": "2018-07-09T18:49:25.664Z",
+          "desc": "",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a3857cf8f74332d2ec1588c"
+          ]
+        },
+        {
+
+          "name": "MOCK - Check MR & RH pages (seo, content, typos), Share blogs, update SM",
+          "idList": "5a3855c309e03f4f8153242b",
+          "dateLastActivity": "2018-07-09T18:50:50.229Z",
+          "desc": "Monthly: run ranking reports, review, adjust and update pages as needed based on placement. Review overall progress and stats on Ryan's Ad campaigns for budget improvement. Update budget sheet. Renew directory listings (monthly payable ones).",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a3857cf8f74332d2ec1588c"
+          ]
+        },
+        {
+
+          "name": "MOCK - run new full crawl on BA with ahrefs check for technical issues",
+          "idList": "5a3855c309e03f4f8153242b",
+          "dateLastActivity": "2018-06-14T23:10:06.292Z",
+          "desc": "",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a3857cf8f74332d2ec1588c"
+          ]
+        },
+        {
+
+          "name": "MOCK - Renew Chambers Annual (4 locations)",
+          "idList": "5a3855c309e03f4f8153242b",
+          "dateLastActivity": "2018-07-09T18:48:40.554Z",
+          "desc": "",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a3857cf8f74332d2ec1588c"
+          ]
+        },
+        {
+
+          "name": "MOCK - clean out Asana list and add to Trello",
+          "idList": "5aa96bdbdb26e9603f0e3d13",
+          "dateLastActivity": "2018-07-09T18:46:19.018Z",
+          "desc": "",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a3857cf8f74332d2ec1588c"
+          ]
+        },
+        {
+
+          "name": "MOCK - Rewrite meta descriptions for specific pages.",
+          "idList": "5aa96bdbdb26e9603f0e3d13",
+          "dateLastActivity": "2018-07-09T18:47:39.640Z",
+          "desc": "Kristi will work on these. If I need help I'll ask Monica or Bobby.",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a3857cf8f74332d2ec1588c",
+            "5a385d8f2344a8d1eed4b95a",
+            "5a3857f8f4bc1727a80f8237"
+          ]
+        },
+        {
+
+          "name": "MOCK - update GMB \"posts\" for 4 locations.  This helps with local rankings.",
+          "idList": "5aa96bdbdb26e9603f0e3d13",
+          "dateLastActivity": "2018-06-14T23:09:07.930Z",
+          "desc": "",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a3857cf8f74332d2ec1588c"
+          ]
+        },
+        {
+
+          "name": "MOCK - Everyone: Review scholarship winner final picks",
+          "idList": "5aa96bdbdb26e9603f0e3d13",
+          "dateLastActivity": "2018-07-09T14:43:35.515Z",
+          "desc": "",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a38555b8e193ba3b4d29582",
+            "5a3857cf8f74332d2ec1588c",
+            "5a3857f8f4bc1727a80f8237",
+            "5a385d8f2344a8d1eed4b95a",
+            "5a385951d197f8c4d6382000"
+          ]
+        }
+      ]
+    },
+    {
+
+      "fullName": "Matt Cheah",
+      "username": "mattcheah2",
+      "avatarUrl": "https://trello-avatars.s3.amazonaws.com/7f2d908abfb2cd7112dee3ac3dcd574f",
+      "url": "https://trello.com/mattcheah2",
+      "lists": [
+        {
+
+          "name": "Pending",
+          "closed": false,
+
+          "pos": 65535.5,
+          "subscribed": false,
+          "cards": [
+            {
+
+              "name": "MOCK - add MOCK FEATURE to MOCK DESIGN AREA",
+              "idList": "5a38571d0083dae3c387dd4c",
+              "dateLastActivity": "2018-06-14T22:35:51.683Z",
+              "desc": "",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a38555b8e193ba3b4d29582",
+                "5a385951d197f8c4d6382000"
+              ]
+            },
+            {
+
+              "name": "MOCK - revise GA categories/events for mobile buttons",
+              "idList": "5a38571d0083dae3c387dd4c",
+              "dateLastActivity": "2018-06-14T22:35:43.466Z",
+              "desc": "~~for call buttons~~\nfor all buttons",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a385951d197f8c4d6382000",
+                "5a38555b8e193ba3b4d29582"
+              ]
+            }
+          ]
+        },
+        {
+
+          "name": "In Progress",
+          "closed": false,
+
+          "pos": 131071,
+          "subscribed": false,
+          "cards": [
+            {
+              "name": "MOCK - Create new Angular Service to retrieve Google Analytics Data",
+              "idList": "5aa96bdbdb26e9603f0e3d13",
+              "dateLastActivity": "2018-07-09T18:10:34.070Z",
+              "desc": "Set up Analytics API and set up API requests to get goals data for the specified time range",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a38555b8e193ba3b4d29582"
+              ]
+            }
+          ]
+        },
+        {
+
+          "name": "For Review by KF/MC",
+          "closed": false,
+
+          "pos": 163839,
+          "subscribed": false,
+          "cards": []
+        },
+        {
+
+          "name": "Completed",
+          "closed": false,
+
+          "pos": 229375,
+          "subscribed": false,
+          "cards": [
+            {
+
+              "name": "MOCK - Create New Bookmark Mockup for Brian",
+              "idList": "5aa96bdbdb26e9603f0e3d13",
+              "dateLastActivity": "2018-07-11T20:17:44.847Z",
+              "desc": "",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a38555b8e193ba3b4d29582",
+                "5a385951d197f8c4d6382000"
+              ]
+            },
+            {
+
+              "name": "MOCK - Set up unit tests for Spam feature so we can confirm the API works?",
+              "idList": "5aa96bdbdb26e9603f0e3d13",
+              "dateLastActivity": "2018-06-19T18:10:34.070Z",
+              "desc": "",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a38555b8e193ba3b4d29582"
+              ]
+            },
+            {
+
+              "name": "MOCK - Fix auto-responder text so that the actual text and sender number comes through the auto-responder email message that gets sent to marketing@bestattorney.com",
+              "idList": "5aa96bdbdb26e9603f0e3d13",
+              "dateLastActivity": "2018-06-19T21:20:44.810Z",
+              "desc": "",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a38555b8e193ba3b4d29582"
+              ]
+            },
+            {
+
+              "name": "MOCK - Everyone: Review scholarship winner final picks",
+              "idList": "5aa96bdbdb26e9603f0e3d13",
+              "dateLastActivity": "2018-07-09T14:43:35.515Z",
+              "desc": "",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a38555b8e193ba3b4d29582",
+                "5a3857cf8f74332d2ec1588c",
+                "5a3857f8f4bc1727a80f8237",
+                "5a385d8f2344a8d1eed4b95a",
+                "5a385951d197f8c4d6382000"
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+
+          "name": "MOCK - add MOCK FEATURE to MOCK DESIGN AREA",
+          "idList": "5a38571d0083dae3c387dd4c",
+          "dateLastActivity": "2018-06-14T22:35:51.683Z",
+          "desc": "",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a38555b8e193ba3b4d29582",
+            "5a385951d197f8c4d6382000"
+          ]
+        },
+        {
+
+          "name": "MOCK - revise GA categories/events for mobile buttons",
+          "idList": "5a38571d0083dae3c387dd4c",
+          "dateLastActivity": "2018-06-14T22:35:43.466Z",
+          "desc": "~~for call buttons~~\nfor all buttons",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a385951d197f8c4d6382000",
+            "5a38555b8e193ba3b4d29582"
+          ]
+        },
+        {
+
+          "name": "MOCK - Create New Bookmark Mockup for Brian",
+          "idList": "5aa96bdbdb26e9603f0e3d13",
+          "dateLastActivity": "2018-07-11T20:17:44.847Z",
+          "desc": "",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a38555b8e193ba3b4d29582",
+            "5a385951d197f8c4d6382000"
+          ]
+        },
+        {
+
+          "name": "MOCK - Set up unit tests for Spam feature so we can confirm the API works?",
+          "idList": "5aa96bdbdb26e9603f0e3d13",
+          "dateLastActivity": "2018-06-19T18:10:34.070Z",
+          "desc": "",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a38555b8e193ba3b4d29582"
+          ]
+        },
+        {
+
+          "name": "MOCK - Fix auto-responder text so that the actual text and sender number comes through the auto-responder email message that gets sent to marketing@bestattorney.com",
+          "idList": "5aa96bdbdb26e9603f0e3d13",
+          "dateLastActivity": "2018-06-19T21:20:44.810Z",
+          "desc": "",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a38555b8e193ba3b4d29582"
+          ]
+        },
+        {
+
+          "name": "MOCK - Everyone: Review scholarship winner final picks",
+          "idList": "5aa96bdbdb26e9603f0e3d13",
+          "dateLastActivity": "2018-07-09T14:43:35.515Z",
+          "desc": "",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a38555b8e193ba3b4d29582",
+            "5a3857cf8f74332d2ec1588c",
+            "5a3857f8f4bc1727a80f8237",
+            "5a385d8f2344a8d1eed4b95a",
+            "5a385951d197f8c4d6382000"
+          ]
+        }
+      ]
+    },
+    {
+
+      "fullName": "Monica Reynoso",
+      "username": "monicareynoso5",
+      "avatarUrl": "https://trello-avatars.s3.amazonaws.com/0be34556bad2b641566dc1d018b166e9",
+      "url": "https://trello.com/monicareynoso5",
+      "lists": [
+        {
+
+          "name": "Pending",
+          "closed": false,
+
+          "pos": 65535.5,
+          "subscribed": false,
+          "cards": []
+        },
+        {
+
+          "name": "In Progress",
+          "closed": false,
+
+          "pos": 131071,
+          "subscribed": false,
+          "cards": [
+            {
+
+              "name": "MOCK - High Quality Article Pre-Planning",
+              "idList": "5a3855c309e03f4f8153242b",
+              "dateLastActivity": "2018-06-19T23:23:04.021Z",
+              "desc": "Keyword research for high quality articles, content research for untapped content market.",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a3857f8f4bc1727a80f8237"
+              ]
+            },
+            {
+
+              "name": "MOCK - Set up Ads based on intake and case value data",
+              "idList": "5a3855c309e03f4f8153242b",
+              "dateLastActivity": "2018-06-11T15:31:27.351Z",
+              "desc": "",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a3857f8f4bc1727a80f8237",
+                "5a385951d197f8c4d6382000"
+              ]
+            }
+          ]
+        },
+        {
+
+          "name": "For Review by KF/MC",
+          "closed": false,
+
+          "pos": 163839,
+          "subscribed": false,
+          "cards": []
+        },
+        {
+
+          "name": "Completed",
+          "closed": false,
+
+          "pos": 229375,
+          "subscribed": false,
+          "cards": [
+            {
+
+              "name": "MOCK - Scooter Accident Lawyer Page",
+              "idList": "5aa96bdbdb26e9603f0e3d13",
+              "dateLastActivity": "2018-07-12T23:25:12.406Z",
+              "desc": "",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a3857f8f4bc1727a80f8237"
+              ]
+            },
+            {
+
+              "name": "MOCK - Rewrite meta descriptions for specific pages.",
+              "idList": "5aa96bdbdb26e9603f0e3d13",
+              "dateLastActivity": "2018-07-09T18:47:39.640Z",
+              "desc": "Kristi will work on these. If I need help I'll ask Monica or Bobby.",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a3857cf8f74332d2ec1588c",
+                "5a385d8f2344a8d1eed4b95a",
+                "5a3857f8f4bc1727a80f8237"
+              ]
+            },
+            {
+
+              "name": "MOCK - Cypress pages need images",
+              "idList": "5aa96bdbdb26e9603f0e3d13",
+              "dateLastActivity": "2018-07-09T18:10:33.637Z",
+              "desc": "",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a3857f8f4bc1727a80f8237"
+              ]
+            },
+            {
+
+              "name": "MOCK - Everyone: Review scholarship winner final picks",
+              "idList": "5aa96bdbdb26e9603f0e3d13",
+              "dateLastActivity": "2018-07-09T14:43:35.515Z",
+              "desc": "",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a38555b8e193ba3b4d29582",
+                "5a3857cf8f74332d2ec1588c",
+                "5a3857f8f4bc1727a80f8237",
+                "5a385d8f2344a8d1eed4b95a",
+                "5a385951d197f8c4d6382000"
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+
+          "name": "MOCK - High Quality Article Pre-Planning",
+          "idList": "5a3855c309e03f4f8153242b",
+          "dateLastActivity": "2018-06-19T23:23:04.021Z",
+          "desc": "Keyword research for high quality articles, content research for untapped content market.",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a3857f8f4bc1727a80f8237"
+          ]
+        },
+        {
+
+          "name": "MOCK - Set up Ads based on intake and case value data",
+          "idList": "5a3855c309e03f4f8153242b",
+          "dateLastActivity": "2018-06-11T15:31:27.351Z",
+          "desc": "",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a3857f8f4bc1727a80f8237",
+            "5a385951d197f8c4d6382000"
+          ]
+        },
+        {
+
+          "name": "MOCK - Scooter Accident Lawyer Page",
+          "idList": "5aa96bdbdb26e9603f0e3d13",
+          "dateLastActivity": "2018-07-12T23:25:12.406Z",
+          "desc": "",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a3857f8f4bc1727a80f8237"
+          ]
+        },
+        {
+
+          "name": "MOCK - Rewrite meta descriptions for specific pages.",
+          "idList": "5aa96bdbdb26e9603f0e3d13",
+          "dateLastActivity": "2018-07-09T18:47:39.640Z",
+          "desc": "Kristi will work on these. If I need help I'll ask Monica or Bobby.",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a3857cf8f74332d2ec1588c",
+            "5a385d8f2344a8d1eed4b95a",
+            "5a3857f8f4bc1727a80f8237"
+          ]
+        },
+        {
+
+          "name": "MOCK - Cypress pages need images",
+          "idList": "5aa96bdbdb26e9603f0e3d13",
+          "dateLastActivity": "2018-07-09T18:10:33.637Z",
+          "desc": "",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a3857f8f4bc1727a80f8237"
+          ]
+        },
+        {
+
+          "name": "MOCK - Everyone: Review scholarship winner final picks",
+          "idList": "5aa96bdbdb26e9603f0e3d13",
+          "dateLastActivity": "2018-07-09T14:43:35.515Z",
+          "desc": "",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a38555b8e193ba3b4d29582",
+            "5a3857cf8f74332d2ec1588c",
+            "5a3857f8f4bc1727a80f8237",
+            "5a385d8f2344a8d1eed4b95a",
+            "5a385951d197f8c4d6382000"
+          ]
+        }
+      ]
+    },
+    {
+
+      "fullName": "Robert Hasbrook",
+      "username": "roberthasbrook",
+      "avatarUrl": null,
+      "url": "https://trello.com/roberthasbrook",
+      "lists": [
+        {
+
+          "name": "Pending",
+          "closed": false,
+
+          "pos": 65535.5,
+          "subscribed": false,
+          "cards": [
+            {
+
+              "name": "MOCK - Top 10 Do's & Don'ts (page)",
+              "idList": "5a38571d0083dae3c387dd4c",
+              "dateLastActivity": "2018-06-11T23:08:39.278Z",
+              "desc": "See list on trello",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a385d8f2344a8d1eed4b95a"
+              ]
+            },
+            {
+
+              "name": "MOCK - Please add images to MOCK PAGE",
+              "idList": "5a38571d0083dae3c387dd4c",
+              "dateLastActivity": "2018-06-14T22:04:46.793Z",
+              "desc": "",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a385d8f2344a8d1eed4b95a"
+              ]
+            }
+          ]
+        },
+        {
+
+          "name": "In Progress",
+          "closed": false,
+
+          "pos": 131071,
+          "subscribed": false,
+          "cards": [
+            {
+
+              "name": "MOCK - Add MOCK DATA to MOCK PAGE",
+              "idList": "5a3855c309e03f4f8153242b",
+              "dateLastActivity": "2018-06-20T20:30:02.951Z",
+              "desc": "",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a385d8f2344a8d1eed4b95a"
+              ]
+            },
+            {
+
+              "name": "MOCK - update all MOCK CONTENT on MOCK MEDIUM",
+              "idList": "5a3855c309e03f4f8153242b",
+              "dateLastActivity": "2018-06-14T21:10:07.601Z",
+              "desc": "1st page",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a385d8f2344a8d1eed4b95a"
+              ]
+            }
+          ]
+        },
+        {
+
+          "name": "For Review by KF/MC",
+          "closed": false,
+
+          "pos": 163839,
+          "subscribed": false,
+          "cards": []
+        },
+        {
+
+          "name": "Completed",
+          "closed": false,
+
+          "pos": 229375,
+          "subscribed": false,
+          "cards": [
+            {
+
+              "name": "MOCK - Rewrite meta descriptions for specific pages.",
+              "idList": "5aa96bdbdb26e9603f0e3d13",
+              "dateLastActivity": "2018-07-09T18:47:39.640Z",
+              "desc": "Kristi will work on these. If I need help I'll ask Monica or Bobby.",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a3857cf8f74332d2ec1588c",
+                "5a385d8f2344a8d1eed4b95a",
+                "5a3857f8f4bc1727a80f8237"
+              ]
+            },
+            {
+
+              "name": "MOCK - Everyone: Review scholarship winner final picks",
+              "idList": "5aa96bdbdb26e9603f0e3d13",
+              "dateLastActivity": "2018-07-09T14:43:35.515Z",
+              "desc": "",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a38555b8e193ba3b4d29582",
+                "5a3857cf8f74332d2ec1588c",
+                "5a3857f8f4bc1727a80f8237",
+                "5a385d8f2344a8d1eed4b95a",
+                "5a385951d197f8c4d6382000"
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+
+          "name": "MOCK - Top 10 Do's & Don'ts (page)",
+          "idList": "5a38571d0083dae3c387dd4c",
+          "dateLastActivity": "2018-06-11T23:08:39.278Z",
+          "desc": "See list on trello",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a385d8f2344a8d1eed4b95a"
+          ]
+        },
+        {
+
+          "name": "MOCK - Please add images to MOCK PAGE",
+          "idList": "5a38571d0083dae3c387dd4c",
+          "dateLastActivity": "2018-06-14T22:04:46.793Z",
+          "desc": "",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a385d8f2344a8d1eed4b95a"
+          ]
+        },
+        {
+
+          "name": "MOCK - Add MOCK DATA to MOCK PAGE",
+          "idList": "5a3855c309e03f4f8153242b",
+          "dateLastActivity": "2018-06-20T20:30:02.951Z",
+          "desc": "",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a385d8f2344a8d1eed4b95a"
+          ]
+        },
+        {
+
+          "name": "MOCK - update all MOCK CONTENT on MOCK MEDIUM",
+          "idList": "5a3855c309e03f4f8153242b",
+          "dateLastActivity": "2018-06-14T21:10:07.601Z",
+          "desc": "1st page",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a385d8f2344a8d1eed4b95a"
+          ]
+        },
+        {
+
+          "name": "MOCK - Rewrite meta descriptions for specific pages.",
+          "idList": "5aa96bdbdb26e9603f0e3d13",
+          "dateLastActivity": "2018-07-09T18:47:39.640Z",
+          "desc": "Kristi will work on these. If I need help I'll ask Monica or Bobby.",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a3857cf8f74332d2ec1588c",
+            "5a385d8f2344a8d1eed4b95a",
+            "5a3857f8f4bc1727a80f8237"
+          ]
+        },
+        {
+
+          "name": "MOCK - Everyone: Review scholarship winner final picks",
+          "idList": "5aa96bdbdb26e9603f0e3d13",
+          "dateLastActivity": "2018-07-09T14:43:35.515Z",
+          "desc": "",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a38555b8e193ba3b4d29582",
+            "5a3857cf8f74332d2ec1588c",
+            "5a3857f8f4bc1727a80f8237",
+            "5a385d8f2344a8d1eed4b95a",
+            "5a385951d197f8c4d6382000"
+          ]
+        }
+      ]
+    },
+    {
+
+      "fullName": "Ryan",
+      "username": "ryanmcccoy",
+      "avatarUrl": "https://trello-avatars.s3.amazonaws.com/f979879ee3b262a367e9b23b526ffbc0",
+      "url": "https://trello.com/ryanmcccoy",
+      "lists": [
+        {
+
+          "name": "Pending",
+          "closed": false,
+
+          "pos": 65535.5,
+          "subscribed": false,
+          "cards": [
+            {
+
+              "name": "MOCK - add MOCK FEATURE to MOCK DESIGN AREA",
+              "idList": "5a38571d0083dae3c387dd4c",
+              "dateLastActivity": "2018-06-14T22:35:51.683Z",
+              "desc": "",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a38555b8e193ba3b4d29582",
+                "5a385951d197f8c4d6382000"
+              ]
+            },
+            {
+
+              "name": "MOCK - New PHP Template to integrate into our framework",
+              "idList": "5a38571d0083dae3c387dd4c",
+              "dateLastActivity": "2018-06-14T22:35:47.462Z",
+              "desc": "Create new PHP template to be included in our proprietary PHP framework that can be customizable based on fullwidth/halfwidth, case results, images, relevant videos, and a huge header",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a385951d197f8c4d6382000"
+              ]
+            },
+            {
+
+              "name": "MOCK - revise GA categories/events for mobile buttons",
+              "idList": "5a38571d0083dae3c387dd4c",
+              "dateLastActivity": "2018-06-14T22:35:43.466Z",
+              "desc": "~~for call buttons~~\nfor all buttons",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a385951d197f8c4d6382000",
+                "5a38555b8e193ba3b4d29582"
+              ]
+            }
+          ]
+        },
+        {
+
+          "name": "In Progress",
+          "closed": false,
+
+          "pos": 131071,
+          "subscribed": false,
+          "cards": [
+            {
+
+              "name": "MOCK - Set up Ads based on intake and case value data",
+              "idList": "5a3855c309e03f4f8153242b",
+              "dateLastActivity": "2018-06-11T15:31:27.351Z",
+              "desc": "",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a3857f8f4bc1727a80f8237",
+                "5a385951d197f8c4d6382000"
+              ]
+            }
+          ]
+        },
+        {
+
+          "name": "For Review by KF/MC",
+          "closed": false,
+
+          "pos": 163839,
+          "subscribed": false,
+          "cards": []
+        },
+        {
+
+          "name": "Completed",
+          "closed": false,
+
+          "pos": 229375,
+          "subscribed": false,
+          "cards": [
+            {
+
+              "name": "MOCK - Create New Bookmark Mockup for Brian",
+              "idList": "5aa96bdbdb26e9603f0e3d13",
+              "dateLastActivity": "2018-07-11T20:17:44.847Z",
+              "desc": "",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a38555b8e193ba3b4d29582",
+                "5a385951d197f8c4d6382000"
+              ]
+            },
+            {
+
+              "name": "MOCK - Everyone: Review scholarship winner final picks",
+              "idList": "5aa96bdbdb26e9603f0e3d13",
+              "dateLastActivity": "2018-07-09T14:43:35.515Z",
+              "desc": "",
+              "shortUrl": "https://trello.com/c/mockUrl",
+              "idMembers": [
+                "5a38555b8e193ba3b4d29582",
+                "5a3857cf8f74332d2ec1588c",
+                "5a3857f8f4bc1727a80f8237",
+                "5a385d8f2344a8d1eed4b95a",
+                "5a385951d197f8c4d6382000"
+              ]
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+
+          "name": "MOCK - add MOCK FEATURE to MOCK DESIGN AREA",
+          "idList": "5a38571d0083dae3c387dd4c",
+          "dateLastActivity": "2018-06-14T22:35:51.683Z",
+          "desc": "",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a38555b8e193ba3b4d29582",
+            "5a385951d197f8c4d6382000"
+          ]
+        },
+        {
+
+          "name": "MOCK - New PHP Template to integrate into our framework",
+          "idList": "5a38571d0083dae3c387dd4c",
+          "dateLastActivity": "2018-06-14T22:35:47.462Z",
+          "desc": "Create new PHP template to be included in our proprietary PHP framework that can be customizable based on fullwidth/halfwidth, case results, images, relevant videos, and a huge header",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a385951d197f8c4d6382000"
+          ]
+        },
+        {
+
+          "name": "MOCK - revise GA categories/events for mobile buttons",
+          "idList": "5a38571d0083dae3c387dd4c",
+          "dateLastActivity": "2018-06-14T22:35:43.466Z",
+          "desc": "~~for call buttons~~\nfor all buttons",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a385951d197f8c4d6382000",
+            "5a38555b8e193ba3b4d29582"
+          ]
+        },
+        {
+
+          "name": "MOCK - Set up Ads based on intake and case value data",
+          "idList": "5a3855c309e03f4f8153242b",
+          "dateLastActivity": "2018-06-11T15:31:27.351Z",
+          "desc": "",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a3857f8f4bc1727a80f8237",
+            "5a385951d197f8c4d6382000"
+          ]
+        },
+        {
+
+          "name": "MOCK - Create New Bookmark Mockup for Brian",
+          "idList": "5aa96bdbdb26e9603f0e3d13",
+          "dateLastActivity": "2018-07-11T20:17:44.847Z",
+          "desc": "",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a38555b8e193ba3b4d29582",
+            "5a385951d197f8c4d6382000"
+          ]
+        },
+        {
+
+          "name": "MOCK - Everyone: Review scholarship winner final picks",
+          "idList": "5aa96bdbdb26e9603f0e3d13",
+          "dateLastActivity": "2018-07-09T14:43:35.515Z",
+          "desc": "",
+          "shortUrl": "https://trello.com/c/mockUrl",
+          "idMembers": [
+            "5a38555b8e193ba3b4d29582",
+            "5a3857cf8f74332d2ec1588c",
+            "5a3857f8f4bc1727a80f8237",
+            "5a385d8f2344a8d1eed4b95a",
+            "5a385951d197f8c4d6382000"
+          ]
+        }
+      ]
+    }
+  ],
+  "cards": {
+
+    "name": "Weekly Sprint 6/14/18 - 7/5/18",
+    "desc": "",
+    "descData": null,
+    "closed": false,
+    "idOrganization": "5a38557cd4d54bad8b9cd2f8",
+    "pinned": false,
+    "url": "https://trello.com/b/Jl3BFF96/weekly-sprint-6-14-18-7-5-18",
+    "shortUrl": "https://trello.com/b/Jl3BFF96",
+    "prefs": {
+      "permissionLevel": "org",
+      "voting": "disabled",
+      "comments": "members",
+      "invitations": "members",
+      "selfJoin": true,
+      "cardCovers": true,
+      "cardAging": "regular",
+      "calendarFeedEnabled": false,
+      "background": "58dff62b16ca8e03ad17d3f9",
+      "backgroundImage": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2560x1707/cd1af142028ed86bd08139b242a822c6/photo-1469938945416-24ed556bbaff",
+      "backgroundImageScaled": [
+        {
+          "width": 140,
+          "height": 100,
+          "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/140x100/d37cb5347765c284364e45e0e70b8353/photo-1469938945416-24ed556bbaff.jpg"
+        },
+        {
+          "width": 256,
+          "height": 192,
+          "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/256x192/74ac19133f938436b50da84f2c5618fd/photo-1469938945416-24ed556bbaff.jpg"
+        },
+        {
+          "width": 480,
+          "height": 480,
+          "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/480x480/d7e785b9e1bedf88192206fa0a567110/photo-1469938945416-24ed556bbaff.jpg"
+        },
+        {
+          "width": 960,
+          "height": 960,
+          "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/960x960/39a831da4bdb68a636b468ab95d76dd8/photo-1469938945416-24ed556bbaff.jpg"
+        },
+        {
+          "width": 1024,
+          "height": 1024,
+          "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1024x1024/090dc3b08783768a4a4d3e4a2ba0a03b/photo-1469938945416-24ed556bbaff.jpg"
+        },
+        {
+          "width": 2048,
+          "height": 2048,
+          "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2048x2048/5bf48dca698789eadfea4a9ed5001463/photo-1469938945416-24ed556bbaff.jpg"
+        },
+        {
+          "width": 1280,
+          "height": 1280,
+          "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1280x1280/5630c9401010f0d091f27c5640ca2dd0/photo-1469938945416-24ed556bbaff.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1920,
+          "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1920x1920/95b017b9927a8169511781ed26cbcb10/photo-1469938945416-24ed556bbaff.jpg"
+        },
+        {
+          "width": 2560,
+          "height": 1600,
+          "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2560x1600/2f291caa25fde8f5c7d562d565adc5f3/photo-1469938945416-24ed556bbaff.jpg"
+        },
+        {
+          "width": 2560,
+          "height": 1707,
+          "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2560x1707/cd1af142028ed86bd08139b242a822c6/photo-1469938945416-24ed556bbaff"
+        }
+      ],
+      "backgroundTile": false,
+      "backgroundBrightness": "dark",
+      "backgroundBottomColor": "#0c0c0b",
+      "backgroundTopColor": "#040404",
+      "canBePublic": true,
+      "canBeOrg": true,
+      "canBePrivate": true,
+      "canInvite": true
+    },
+    "cards": [
+      {
+
+        "name": "MOCK - Top 10 Do's & Don'ts (page)",
+        "idList": "5a38571d0083dae3c387dd4c",
+        "dateLastActivity": "2018-06-11T23:08:39.278Z",
+        "desc": "See list on trello",
+        "shortUrl": "https://trello.com/c/mockUrl",
+        "idMembers": [
+          "5a385d8f2344a8d1eed4b95a"
+        ]
+      },
+      {
+        "name": "MOCK - Create new Angular Service to retrieve Google Analytics Data",
+        "idList": "5aa96bdbdb26e9603f0e3d13",
+        "dateLastActivity": "2018-07-09T18:10:34.070Z",
+        "desc": "Set up Analytics API and set up API requests to get goals data for the specified time range",
+        "shortUrl": "https://trello.com/c/mockUrl",
+        "idMembers": [
+          "5a38555b8e193ba3b4d29582"
+        ]
+      },
+      {
+
+        "name": "MOCK - Top Places to Work media kit. Order by 7/23/",
+        "idList": "5a38571d0083dae3c387dd4c",
+        "dateLastActivity": "2018-06-14T21:59:45.876Z",
+        "desc": "",
+        "shortUrl": "https://trello.com/c/mockUrl",
+        "idMembers": [
+          "5a3857cf8f74332d2ec1588c"
+        ]
+      },
+      {
+
+        "name": "MOCK - Please add images to MOCK PAGE",
+        "idList": "5a38571d0083dae3c387dd4c",
+        "dateLastActivity": "2018-06-14T22:04:46.793Z",
+        "desc": "",
+        "shortUrl": "https://trello.com/c/mockUrl",
+        "idMembers": [
+          "5a385d8f2344a8d1eed4b95a"
+        ]
+      },
+      {
+
+        "name": "MOCK - add MOCK FEATURE to MOCK DESIGN AREA",
+        "idList": "5a38571d0083dae3c387dd4c",
+        "dateLastActivity": "2018-06-14T22:35:51.683Z",
+        "desc": "",
+        "shortUrl": "https://trello.com/c/mockUrl",
+        "idMembers": [
+          "5a38555b8e193ba3b4d29582",
+          "5a385951d197f8c4d6382000"
+        ]
+      },
+      {
+
+        "name": "MOCK - New PHP Template to integrate into our framework",
+        "idList": "5a38571d0083dae3c387dd4c",
+        "dateLastActivity": "2018-06-14T22:35:47.462Z",
+        "desc": "Create new PHP template to be included in our proprietary PHP framework that can be customizable based on fullwidth/halfwidth, case results, images, relevant videos, and a huge header",
+        "shortUrl": "https://trello.com/c/mockUrl",
+        "idMembers": [
+          "5a385951d197f8c4d6382000"
+        ]
+      },
+      {
+
+        "name": "MOCK - revise GA categories/events for mobile buttons",
+        "idList": "5a38571d0083dae3c387dd4c",
+        "dateLastActivity": "2018-06-14T22:35:43.466Z",
+        "desc": "~~for call buttons~~\nfor all buttons",
+        "shortUrl": "https://trello.com/c/mockUrl",
+        "idMembers": [
+          "5a385951d197f8c4d6382000",
+          "5a38555b8e193ba3b4d29582"
+        ]
+      },
+      {
+
+        "name": "MOCK - create ad copy and artwork for CLE magazine",
+        "idList": "5a3855c309e03f4f8153242b",
+        "dateLastActivity": "2018-07-09T18:49:00.888Z",
+        "desc": "",
+        "shortUrl": "https://trello.com/c/mockUrl",
+        "idMembers": [
+          "5a3857cf8f74332d2ec1588c"
+        ]
+      },
+      {
+
+        "name": "MOCK - Create 5-10 new backlinks off of latest competitor report.",
+        "idList": "5a3855c309e03f4f8153242b",
+        "dateLastActivity": "2018-07-09T18:49:25.664Z",
+        "desc": "",
+        "shortUrl": "https://trello.com/c/mockUrl",
+        "idMembers": [
+          "5a3857cf8f74332d2ec1588c"
+        ]
+      },
+      {
+
+        "name": "MOCK - Check MR & RH pages (seo, content, typos), Share blogs, update SM",
+        "idList": "5a3855c309e03f4f8153242b",
+        "dateLastActivity": "2018-07-09T18:50:50.229Z",
+        "desc": "Monthly: run ranking reports, review, adjust and update pages as needed based on placement. Review overall progress and stats on Ryan's Ad campaigns for budget improvement. Update budget sheet. Renew directory listings (monthly payable ones).",
+        "shortUrl": "https://trello.com/c/mockUrl",
+        "idMembers": [
+          "5a3857cf8f74332d2ec1588c"
+        ]
+      },
+      {
+
+        "name": "MOCK - run new full crawl on BA with ahrefs check for technical issues",
+        "idList": "5a3855c309e03f4f8153242b",
+        "dateLastActivity": "2018-06-14T23:10:06.292Z",
+        "desc": "",
+        "shortUrl": "https://trello.com/c/mockUrl",
+        "idMembers": [
+          "5a3857cf8f74332d2ec1588c"
+        ]
+      },
+      {
+
+        "name": "MOCK - Add MOCK DATA to MOCK PAGE",
+        "idList": "5a3855c309e03f4f8153242b",
+        "dateLastActivity": "2018-06-20T20:30:02.951Z",
+        "desc": "",
+        "shortUrl": "https://trello.com/c/mockUrl",
+        "idMembers": [
+          "5a385d8f2344a8d1eed4b95a"
+        ]
+      },
+      {
+
+        "name": "MOCK - High Quality Article Pre-Planning",
+        "idList": "5a3855c309e03f4f8153242b",
+        "dateLastActivity": "2018-06-19T23:23:04.021Z",
+        "desc": "Keyword research for high quality articles, content research for untapped content market.",
+        "shortUrl": "https://trello.com/c/mockUrl",
+        "idMembers": [
+          "5a3857f8f4bc1727a80f8237"
+        ]
+      },
+      {
+
+        "name": "MOCK - update all MOCK CONTENT on MOCK MEDIUM",
+        "idList": "5a3855c309e03f4f8153242b",
+        "dateLastActivity": "2018-06-14T21:10:07.601Z",
+        "desc": "1st page",
+        "shortUrl": "https://trello.com/c/mockUrl",
+        "idMembers": [
+          "5a385d8f2344a8d1eed4b95a"
+        ]
+      },
+      {
+
+        "name": "MOCK - Set up Ads based on intake and case value data",
+        "idList": "5a3855c309e03f4f8153242b",
+        "dateLastActivity": "2018-06-11T15:31:27.351Z",
+        "desc": "",
+        "shortUrl": "https://trello.com/c/mockUrl",
+        "idMembers": [
+          "5a3857f8f4bc1727a80f8237",
+          "5a385951d197f8c4d6382000"
+        ]
+      },
+      {
+
+        "name": "MOCK - Renew Chambers Annual (4 locations)",
+        "idList": "5a3855c309e03f4f8153242b",
+        "dateLastActivity": "2018-07-09T18:48:40.554Z",
+        "desc": "",
+        "shortUrl": "https://trello.com/c/mockUrl",
+        "idMembers": [
+          "5a3857cf8f74332d2ec1588c"
+        ]
+      },
+      {
+
+        "name": "MOCK - clean out Asana list and add to Trello",
+        "idList": "5aa96bdbdb26e9603f0e3d13",
+        "dateLastActivity": "2018-07-09T18:46:19.018Z",
+        "desc": "",
+        "shortUrl": "https://trello.com/c/mockUrl",
+        "idMembers": [
+          "5a3857cf8f74332d2ec1588c"
+        ]
+      },
+      {
+
+        "name": "MOCK - Scooter Accident Lawyer Page",
+        "idList": "5aa96bdbdb26e9603f0e3d13",
+        "dateLastActivity": "2018-07-12T23:25:12.406Z",
+        "desc": "",
+        "shortUrl": "https://trello.com/c/mockUrl",
+        "idMembers": [
+          "5a3857f8f4bc1727a80f8237"
+        ]
+      },
+      {
+
+        "name": "MOCK - Create New Bookmark Mockup for Brian",
+        "idList": "5aa96bdbdb26e9603f0e3d13",
+        "dateLastActivity": "2018-07-11T20:17:44.847Z",
+        "desc": "",
+        "shortUrl": "https://trello.com/c/mockUrl",
+        "idMembers": [
+          "5a38555b8e193ba3b4d29582",
+          "5a385951d197f8c4d6382000"
+        ]
+      },
+      {
+
+        "name": "MOCK - Rewrite meta descriptions for specific pages.",
+        "idList": "5aa96bdbdb26e9603f0e3d13",
+        "dateLastActivity": "2018-07-09T18:47:39.640Z",
+        "desc": "Kristi will work on these. If I need help I'll ask Monica or Bobby.",
+        "shortUrl": "https://trello.com/c/mockUrl",
+        "idMembers": [
+          "5a3857cf8f74332d2ec1588c",
+          "5a385d8f2344a8d1eed4b95a",
+          "5a3857f8f4bc1727a80f8237"
+        ]
+      },
+      {
+
+        "name": "MOCK - update GMB \"posts\" for 4 locations.  This helps with local rankings.",
+        "idList": "5aa96bdbdb26e9603f0e3d13",
+        "dateLastActivity": "2018-06-14T23:09:07.930Z",
+        "desc": "",
+        "shortUrl": "https://trello.com/c/mockUrl",
+        "idMembers": [
+          "5a3857cf8f74332d2ec1588c"
+        ]
+      },
+      {
+
+        "name": "MOCK - Set up unit tests for Spam feature so we can confirm the API works?",
+        "idList": "5aa96bdbdb26e9603f0e3d13",
+        "dateLastActivity": "2018-06-19T18:10:34.070Z",
+        "desc": "",
+        "shortUrl": "https://trello.com/c/mockUrl",
+        "idMembers": [
+          "5a38555b8e193ba3b4d29582"
+        ]
+      },
+      {
+
+        "name": "MOCK - Fix auto-responder text so that the actual text and sender number comes through the auto-responder email message that gets sent to marketing@bestattorney.com",
+        "idList": "5aa96bdbdb26e9603f0e3d13",
+        "dateLastActivity": "2018-06-19T21:20:44.810Z",
+        "desc": "",
+        "shortUrl": "https://trello.com/c/mockUrl",
+        "idMembers": [
+          "5a38555b8e193ba3b4d29582"
+        ]
+      },
+      {
+
+        "name": "MOCK - Cypress pages need images",
+        "idList": "5aa96bdbdb26e9603f0e3d13",
+        "dateLastActivity": "2018-07-09T18:10:33.637Z",
+        "desc": "",
+        "shortUrl": "https://trello.com/c/mockUrl",
+        "idMembers": [
+          "5a3857f8f4bc1727a80f8237"
+        ]
+      },
+      {
+
+        "name": "MOCK - Everyone: Review scholarship winner final picks",
+        "idList": "5aa96bdbdb26e9603f0e3d13",
+        "dateLastActivity": "2018-07-09T14:43:35.515Z",
+        "desc": "",
+        "shortUrl": "https://trello.com/c/mockUrl",
+        "idMembers": [
+          "5a38555b8e193ba3b4d29582",
+          "5a3857cf8f74332d2ec1588c",
+          "5a3857f8f4bc1727a80f8237",
+          "5a385d8f2344a8d1eed4b95a",
+          "5a385951d197f8c4d6382000"
+        ]
+      },
+      {
+
+        "name": "MOCK - 4 pages returned 4XX status code",
+        "idList": "5aa96bdbdb26e9603f0e3d13",
+        "dateLastActivity": "2018-06-29T17:58:54.382Z",
+        "desc": "",
+        "shortUrl": "https://trello.com/c/mockUrl",
+        "idMembers": []
+      }
+    ],
+    "labelNames": {
+      "green": "Completed!",
+      "yellow": "",
+      "orange": "",
+      "red": "",
+      "purple": "",
+      "blue": "",
+      "sky": "",
+      "lime": "",
+      "pink": "",
+      "black": ""
+    }
+  },
+  "totalDays": 22,
+  "sprintProgress": 33,
+  "barClass": "bg-expired",
+  "progressBarText": "We're overdue for a sprint meeting!"
+}

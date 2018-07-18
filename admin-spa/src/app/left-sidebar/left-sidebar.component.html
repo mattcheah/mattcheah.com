@@ -1,0 +1,153 @@
+<script>
+  console.log("hellO!");
+</script>
+
+<div class="be-left-sidebar">
+  <div class="left-sidebar-wrapper">
+    <a href="#" class="left-sidebar-toggle">Navigation:</a>
+    <div class="left-sidebar-spacer">
+      <div class="left-sidebar-scroll">
+        <div class="left-sidebar-content">
+          <ul class="sidebar-elements">
+            <li class="divider">Menu</li>
+            <li>
+              <a routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }" >
+                <i class="icon mdi mdi-home"></i>
+                <span>Home Dashboard</span>
+              </a>
+            </li>
+            <li class="parent">
+              <a>
+                <i class="icon mdi mdi-face"></i>
+                <span>Team Members</span>
+              </a>
+              <ul class="sub-menu">
+                <li>
+                  <a routerLink="/users/4kristi" >Kristi</a>
+                </li>
+                <li>
+                  <a routerLink="/users/mattcheah">Matt</a>
+                </li>
+                <li>
+                  <a routerLink="/users/bobbyhasbrook">Bobby</a>
+                </li>
+                <li>
+                  <a routerLink="/users/MReynoso2018">Monica</a>
+                </li>
+                <li>
+                  <a routerLink="/users/insarov">Ryan</a>
+                </li>
+
+              </ul>
+            </li>
+            <li>
+              <a routerLink="/sprint-info" routerLinkActive="active">
+                <i class="icon mdi mdi-assignment"></i>
+                <span>Trello Sprint</span>
+              </a>
+            </li>
+            <li>
+              <a routerLink="/github-info" routerLinkActive="active">
+                <i class="icon mdi mdi-github"></i>
+                <span>Github Info</span>
+              </a>
+            </li>
+            <!-- <li class="parent">
+              <a href="#">
+                <i class="icon mdi mdi-layers"></i>
+                <span>Pages</span>
+              </a>
+              <ul class="sub-menu">
+                <li>
+                  <a href="pages-blank.html">Blank Page</a>
+                </li>
+                <li>
+                  <a href="pages-blank-header.html">Blank Page Header</a>
+                </li>
+                <li>
+                  <a href="pages-login.html">Login</a>
+                </li>
+                <li>
+                  <a href="pages-login2.html">Login v2</a>
+                </li>
+                <li>
+                  <a href="pages-404.html">404 Page</a>
+                </li>
+                <li>
+                  <a href="pages-sign-up.html">Sign Up</a>
+                </li>
+                <li>
+                  <a href="pages-forgot-password.html">Forgot Password</a>
+                </li>
+                <li>
+                  <a href="pages-profile.html">Profile</a>
+                </li>
+                <li>
+                  <a href="pages-pricing-tables.html">Pricing Tables</a>
+                </li>
+                <li>
+                  <a href="pages-pricing-tables2.html">Pricing Tables v2</a>
+                </li>
+                <li>
+                  <a href="pages-timeline.html">Timeline</a>
+                </li>
+                <li>
+                  <a href="pages-timeline2.html">Timeline v2</a>
+                </li>
+                <li>
+                  <a href="pages-invoice.html">
+                    <span class="badge badge-primary float-right">New</span>Invoice</a>
+                </li>
+                <li>
+                  <a href="pages-calendar.html">Calendar</a>
+                </li>
+                <li>
+                  <a href="pages-gallery.html">Gallery</a>
+                </li>
+                <li>
+                  <a href="pages-code-editor.html">
+                    <span class="badge badge-primary float-right">New </span>Code Editor</a>
+                </li>
+                <li>
+                  <a href="pages-booking.html">
+                    <span class="badge badge-primary float-right">New</span>Booking</a>
+                </li>
+                <li>
+                  <a href="pages-loaders.html">
+                    <span class="badge badge-primary float-right">New</span>Loaders</a>
+                </li>
+              </ul>
+            </li> -->
+            <li class="divider">How-To Information</li>
+            <li class="parent">
+              <a routerLink="edit-website-content">
+                <i class="icon mdi mdi-inbox"></i>
+                <span>Edit Website Content</span>
+              </a>
+            </li>
+            <li class="parent">
+              <a routerLink="web-services">
+                <i class="icon mdi mdi-view-web"></i>
+                <span>Web Services</span>
+              </a>
+            </li>
+            <li class="parent">
+              <a routerLink="build-pipeline">
+                <i class="icon mdi mdi-pin"></i>
+                <span>Build Pipeline</span>
+              </a>
+            </li>
+            <li class="parent">
+              <a routerLink="technical-operations">
+                <i class="icon mdi mdi-folder"></i>
+                <span>Technical Operations</span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+

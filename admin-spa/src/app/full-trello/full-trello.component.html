@@ -1,0 +1,32 @@
+<div class="be-content">
+  <div class="page-head">
+    <div class="page-head-left">
+      <h2 class="page-head-title">BestAttorney.com Admin Site</h2>
+      <nav aria-label="breadcrumb" role="navigation">
+        <ol class="breadcrumb page-head-nav">
+          <li class="breadcrumb-item">
+            <a href="/">Home</a>
+          </li>
+          <li class="breadcrumb-item active">Sprint Info</li>
+        </ol>
+      </nav>
+    </div>
+    <!-- <app-date-picker></app-date-picker> -->
+    <div class="clearfix">
+  </div>
+  <div class="main-content container-fluid be-loading">
+    <h2 class="text-center">Trello Sprint Information</h2>
+    <div id="all-trello-info" class="be-loading" [ngClass]="{'be-loading-active': loading}">
+      <app-sprint-progress-bar></app-sprint-progress-bar>
+      <div class="d-flex flex-row justify-content-between flex-wrap" *ngIf="trelloData">
+        <button class="p-4 btn btn-space btn-primary btn-big" (click)='assignActiveUser(user)' [ngClass]="{'active': user === activeUser}" *ngFor="let user of trelloData.users">
+          {{user.fullName}}
+        </button>
+      </div>
+      <div *ngFor="let user of filteredTrelloUsers">
+        <app-full-trello-user-data [user]="user"></app-full-trello-user-data>
+      </div>
+    </div>
+    <app-loader-icon></app-loader-icon>
+  </div>
+</div>
